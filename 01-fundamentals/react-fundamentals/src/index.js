@@ -23,7 +23,8 @@ import ReactDOM from "react-dom/client";
 
 function Greeting() {
   return (
-    <div>
+    // Get Rid of Extra Div Using React.Fragment
+    <React.Fragment>
       <div>
         <h3>Hello World!</h3>
         <ul>
@@ -37,7 +38,7 @@ function Greeting() {
       </div>
       {/* Cannot Create a Sibling to Parent Element // Must Have One Parent */}
       <h2>Another Heading</h2>
-    </div>
+    </React.Fragment>
   );
 }
 
