@@ -24,7 +24,8 @@ import ReactDOM from "react-dom/client";
 function Greeting() {
   return (
     // Get Rid of Extra Div Using React.Fragment
-    <React.Fragment>
+    // Can Also Use <> & </> for Shorthand
+    <>
       <div>
         <h3>Hello World!</h3>
         <ul>
@@ -40,7 +41,7 @@ function Greeting() {
       <h2>Another Heading</h2>
       {/* Self Closing Elements Must Have "/" Closing Tag */}
       <input type="text" />
-    </React.Fragment>
+    </>
   );
 }
 
