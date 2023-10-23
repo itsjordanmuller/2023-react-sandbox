@@ -13,11 +13,31 @@ import ReactDOM from "react-dom/client";
 // }
 
 // Use createElement method that is being called under the hood
+// function Greeting() {
+//   return React.createElement(
+//     "div",
+//     {},
+//     React.createElement("h2", {}, "Hello World!")
+//   );
+// }
+
 function Greeting() {
-  return React.createElement(
-    "div",
-    {},
-    React.createElement("h2", {}, "Hello World!")
+  return (
+    <div>
+      <div>
+        <h3>Hello World!</h3>
+        <ul>
+          <li>
+            <a href="#">Hello</a>
+          </li>
+          <li>
+            <a href="#">World</a>
+          </li>
+        </ul>
+      </div>
+      {/* Cannot Create a Sibling to Parent Element // Must Have One Parent */}
+      <h2>Another Heading</h2>
+    </div>
   );
 }
 
