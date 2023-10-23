@@ -2,8 +2,8 @@
 // rafce (Arrow Function with Export)
 import React from "react";
 
-const Teting = () => {
-  return <div>Teting</div>;
+const Testing = () => {
+  return <div>Testing</div>;
 };
 
-export default Teting;
+export default Testing;
