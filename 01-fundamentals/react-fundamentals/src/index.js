@@ -38,6 +38,8 @@ function Greeting() {
       </div>
       {/* Cannot Create a Sibling to Parent Element // Must Have One Parent */}
       <h2>Another Heading</h2>
+      {/* Self Closing Elements Must Have "/" Closing Tag */}
+      <input type="text" />
     </React.Fragment>
   );
 }
