@@ -45,22 +45,38 @@ import ReactDOM from "react-dom/client";
 //   );
 // }
 
+// function Greeting() {
+//   // Must Have Return and Element on Same Line or Use Parenthesis
+//   // return <h2>Hello World!</h2>;
+
+//   // Can't Access Code on Line After Return
+//   // return;
+//   // <h2>Hello World!</h2>;
+
+//   // Must Use Parenthesis and React.Fragment to Return Code on Another Line/Multiple Lines
+//   return (
+//     <>
+//       <h2>Hello World!</h2>
+//       <p>Hello!</p>
+//     </>
+//   );
+// }
+
+// Nest Components in Another Component
 function Greeting() {
-  // Must Have Return and Element on Same Line or Use Parenthesis
-  // return <h2>Hello World!</h2>;
-
-  // Can't Access Code on Line After Return
-  // return;
-  // <h2>Hello World!</h2>;
-
-  // Must Use Parenthesis and React.Fragment to Return Code on Another Line/Multiple Lines
   return (
-    <>
-      <h2>Hello World!</h2>
-      <p>Hello!</p>
-    </>
+    <div>
+      <Person />
+      <Message />
+    </div>
   );
 }
+
+const Person = () => <h2>John Doe</h2>;
+
+const Message = () => {
+  return <p>This is my message</p>;
+};
 
 // Create a Root with ReactDOM on the Element with ID of root
 const root = ReactDOM.createRoot(document.getElementById("root"));
