@@ -21,15 +21,15 @@ const books = [
 ];
 
 const BookList = () => {
-  const someValue = "Value to Pass Down";
-  const displayValue = () => {
-    console.log(someValue);
+  const getBook = (id) => {
+    const book = books.find((book) => book.id === id);
+    console.log(book);
   };
 
   return (
     <section className="book-list">
       {books.map((book) => {
-        return <Book {...book} key={book.id} displayValue={displayValue} />;
+        return <Book {...book} key={book.id} getBook={getBook} />;
       })}
     </section>
   );
@@ -37,12 +37,19 @@ const BookList = () => {
 
 const Book = (props) => {
   // console.log(props);
-  const { title, author, img, alt, displayValue } = props;
+  const { title, author, img, alt, getBook, id } = props;
+  const getSingleBook = () => {
+    getBook(id);
+  };
+
   return (
     <article className="book">
       <img src={img} alt={alt} className="book-img" />
       <h2 className="book-title">{title}</h2>
-      <button onClick={displayValue}>Click</button>
+      {/* First Option Uses Named Function */}
+      <button onClick={getSingleBook}>Click</button>
+      {/* Second Option Uses Anonymous Function */}
+      {/* <button onClick={() => getBook(id)}>Click</button> */}
       <h4 className="book-author">{author}</h4>
     </article>
   );
