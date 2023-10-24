@@ -10,3 +10,11 @@ body {
   background: #f1f5f8;
   color: #222;
 }
+
+.book-list {
+  width: 90vw;
+  max-width: 1170px;
+  margin: 5rem auto;
+  display: grid;
+  gap: 2rem;
+}
