@@ -4,28 +4,29 @@ import "./index.css";
 
 const books = [
   {
-    author: "David Brooks",
     title:
       "How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen",
+    author: "David Brooks",
     img: "/images/how-to-know-a-person-cover.jpg",
     alt: "How to Know a Person Book Cover Art",
   },
   {
-    author: "James Clear",
     title: "Atomic Habits",
-    img: "https://images-na.ssl-images-amazon.com/images/I/81wgcld4wxL._AC_UL900_SR900,600_.jpg",
+    author: "James Clear",
+    img: "/images/atomic-habits-cover.jpg",
     alt: "Atomic Habits Book Cover Art",
   },
 ];
 
-const names = ["john", "peter", "susan"];
-const newNames = names.map((name) => {
-  console.log(name);
-  return <h1>{name}</h1>;
-});
-console.log(newNames);
 const BookList = () => {
-  return <section className="book-list">{newNames}</section>;
+  return (
+    <section className="book-list">
+      {books.map((book) => {
+        const { title, author, img, alt } = book;
+        return <Book title={title} author={author} img={img} alt={alt} />;
+      })}
+    </section>
+  );
 };
 
 const Book = (props) => {

@@ -36,7 +36,9 @@ body {
 
 .book-img {
   width: 100%;
-  object-fit: cover;
+  height: 220px;
+  object-fit: contain;
+  margin: 0 auto;
 }
 
 .book-title {
