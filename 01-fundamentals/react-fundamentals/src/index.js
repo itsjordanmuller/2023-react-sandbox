@@ -2,6 +2,12 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 
+const bookTitle =
+  "How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen";
+const bookAuthor = "David Brooks";
+const bookImgSrc = "./images/how-to-know-a-person-cover.jpg";
+const bookImgAlt = "How to Know a Person Book Cover Art";
+
 const BookList = () => {
   return (
     <section className="book-list">
@@ -14,16 +20,9 @@ const BookList = () => {
 };
 
 const Book = () => {
-  const bookTitle =
-    "How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen";
-  const bookAuthor = "David Brooks";
   return (
     <article className="book">
-      <img
-        src="./images/how-to-know-a-person-cover.jpg"
-        alt="How to Know a Person Book Cover Art"
-        className="book-img"
-      />
+      <img src={bookImgSrc} alt={bookImgAlt} className="book-img" />
       <h2 className="book-title">{bookTitle}</h2>
       <h4 className="book-author">{bookAuthor}</h4>
       {/* Methods Can Be Used in JSX JavaScript */}
