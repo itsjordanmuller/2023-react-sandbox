@@ -4,6 +4,7 @@ import "./index.css";
 
 const books = [
   {
+    id: 1,
     title:
       "How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen",
     author: "David Brooks",
@@ -11,6 +12,7 @@ const books = [
     alt: "How to Know a Person Book Cover Art",
   },
   {
+    id: 2,
     title: "Atomic Habits",
     author: "James Clear",
     img: "/images/atomic-habits-cover.jpg",
@@ -22,8 +24,10 @@ const BookList = () => {
   return (
     <section className="book-list">
       {books.map((book) => {
-        const { title, author, img, alt } = book;
-        return <Book title={title} author={author} img={img} alt={alt} />;
+        const { title, author, img, alt, id } = book;
+        return (
+          <Book title={title} author={author} img={img} alt={alt} key={id} />
+        );
       })}
     </section>
   );
