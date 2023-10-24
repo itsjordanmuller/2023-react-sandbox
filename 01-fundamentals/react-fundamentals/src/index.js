@@ -8,10 +8,6 @@ const BookList = () => {
       <Book />
       <Book />
       <Book />
-      <Book />
-      <Book />
-      <Book />
-      <Book />
     </section>
   );
 };
@@ -26,10 +22,19 @@ const Book = () => {
   );
 };
 
-const Image = () => <h2>Image Placeholder</h2>;
-const Title = () => <h2>Title of the Book</h2>;
+const Image = () => (
+  <img
+    src="https://m.media-amazon.com/images/I/516gs6HFZ1L._SY445_SX342_.jpg"
+    alt="How to Know a Person Book Cover Art"
+  ></img>
+);
+const Title = () => (
+  <h2>
+    How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen
+  </h2>
+);
 const Author = () => {
-  return <h4>Author</h4>;
+  return <h4>David Brooks</h4>;
 };
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
