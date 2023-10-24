@@ -25,10 +25,10 @@ const Book = () => {
 
 const Image = () => (
   <img
-    src="https://m.media-amazon.com/images/I/516gs6HFZ1L._SY445_SX342_.jpg"
+    src="./images/how-to-know-a-person-cover.jpg"
     alt="How to Know a Person Book Cover Art"
     className="book-img"
-  ></img>
+  />
 );
 const Title = () => (
   <h2 className="book-title">
