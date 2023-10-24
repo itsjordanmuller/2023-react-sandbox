@@ -36,7 +36,14 @@ const Title = () => (
   </h2>
 );
 const Author = () => {
-  return <h4 className="book-author">David Brooks</h4>;
+  return (
+    <h4
+      className="book-author"
+      style={{ color: "#617d98", fontSize: "0.75", marginTop: "0.5rem" }}
+    >
+      David Brooks
+    </h4>
+  );
 };
 const root = ReactDOM.createRoot(document.getElementById("root"));
 

@@ -43,6 +43,8 @@ body {
 }
 
 .book-author {
-  font-style: italic;
-  font-weight: normal;
+  /* Won't Work since color is set in JSX*/
+  color: red;
+  /* Will Work since color is not set in JSX*/
+  letter-spacing: 2px;
 }
