@@ -2,11 +2,27 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 
-const bookTitle =
-  "How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen";
-const bookAuthor = "David Brooks";
-const bookImgSrc = "./images/how-to-know-a-person-cover.jpg";
-const bookImgAlt = "How to Know a Person Book Cover Art";
+// const bookTitle =
+//   "How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen";
+// const bookAuthor = "David Brooks";
+// const bookImgSrc = "./images/how-to-know-a-person-cover.jpg";
+// const bookImgAlt = "How to Know a Person Book Cover Art";
+
+const firstBook = {
+  bookTitle:
+    "How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen",
+  bookAuthor: "David Brooks",
+  bookImgSrc: "./images/how-to-know-a-person-cover.jpg",
+  bookImgAlt: "How to Know a Person Book Cover Art",
+};
+
+const secondBook = {
+  bookTitle:
+    "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+  bookAuthor: "James Clear",
+  bookImgSrc: "./images/atomic-habits-cover.jpg",
+  bookImgAlt: "Atomic Habits Book Cover Art",
+};
 
 const BookList = () => {
   return (
@@ -14,16 +30,16 @@ const BookList = () => {
       {/* <Book job="developer" />
       <Book title="random title" number={22} /> */}
       <Book
-        title={bookTitle}
-        author={bookAuthor}
-        img={bookImgSrc}
-        imgAlt={bookImgAlt}
+        title={firstBook.bookTitle}
+        author={firstBook.bookAuthor}
+        img={firstBook.bookImgSrc}
+        imgAlt={firstBook.bookImgAlt}
       />
       <Book
-        title={bookTitle}
-        author={bookAuthor}
-        img={bookImgSrc}
-        imgAlt={bookImgAlt}
+        title={secondBook.bookTitle}
+        author={secondBook.bookAuthor}
+        img={secondBook.bookImgSrc}
+        imgAlt={secondBook.bookImgAlt}
       />
     </section>
   );
