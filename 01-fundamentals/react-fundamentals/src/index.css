@@ -42,9 +42,15 @@ body {
   font-size: 1rem;
 }
 
+/* .book-author { */
+/* Won't Work since color is set in JSX*/
+/* color: red; */
+/* Will Work since color is not set in JSX*/
+/* letter-spacing: 2px; */
+/* } */
+
 .book-author {
-  /* Won't Work since color is set in JSX*/
-  color: red;
-  /* Will Work since color is not set in JSX*/
-  letter-spacing: 2px;
+  color: #617d98;
+  font-size: "0.75rem";
+  margin-top: "0.5rem";
 }
