@@ -14,6 +14,9 @@ const BookList = () => {
 };
 
 const Book = () => {
+  const bookTitle =
+    "How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen";
+  const bookAuthor = "David Brooks";
   return (
     <article className="book">
       <img
@@ -21,11 +24,12 @@ const Book = () => {
         alt="How to Know a Person Book Cover Art"
         className="book-img"
       />
-      <h2 className="book-title">
-        How to Know a Person: The Art of Seeing Others Deeply and Being Deeply
-        Seen
-      </h2>
-      <h4 className="book-author">David Brooks</h4>
+      <h2 className="book-title">{bookTitle}</h2>
+      <h4 className="book-author">{bookAuthor}</h4>
+      {/* Will Compile with Errors, Can't Use Statements */}
+      {/* <p>{let x = 6}</p> */}
+      {/* Expression Will Work & Show 12 */}
+      <p>{6 + 6}</p>
     </article>
   );
 };
