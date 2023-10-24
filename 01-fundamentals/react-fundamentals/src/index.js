@@ -5,6 +5,13 @@ const BookList = () => {
   return (
     <section>
       <Book />
+      <Book />
+      <Book />
+      <Book />
+      <Book />
+      <Book />
+      <Book />
+      <Book />
     </section>
   );
 };
@@ -20,7 +27,7 @@ const Book = () => {
 };
 
 const Image = () => <h2>Image Placeholder</h2>;
-const Title = () => <h2>Book Title</h2>;
+const Title = () => <h2>Title of the Book</h2>;
 const Author = () => {
   return <h4>Author</h4>;
 };
