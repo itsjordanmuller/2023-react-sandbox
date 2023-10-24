@@ -11,8 +11,20 @@ const bookImgAlt = "How to Know a Person Book Cover Art";
 const BookList = () => {
   return (
     <section className="book-list">
-      <Book job="developer" />
-      <Book title="random title" number={22} />
+      {/* <Book job="developer" />
+      <Book title="random title" number={22} /> */}
+      <Book
+        title={bookTitle}
+        author={bookAuthor}
+        img={bookImgSrc}
+        imgAlt={bookImgAlt}
+      />
+      <Book
+        title={bookTitle}
+        author={bookAuthor}
+        img={bookImgSrc}
+        imgAlt={bookImgAlt}
+      />
     </section>
   );
 };
@@ -21,13 +33,13 @@ const Book = (props) => {
   console.log(props);
   return (
     <article className="book">
-      <img src={bookImgSrc} alt={bookImgAlt} className="book-img" />
-      <h2 className="book-title">{bookTitle}</h2>
-      <h4 className="book-author">{bookAuthor}</h4>
+      <img src={props.img} alt={props.imgAlt} className="book-img" />
+      <h2 className="book-title">{props.title}</h2>
+      <h4 className="book-author">{props.author}</h4>
       {/* Props Only Show on Components Where Those Props Were Given */}
-      <p>{props.job}</p>
+      {/* <p>{props.job}</p>
       <p>{props.title}</p>
-      <p>{props.number}</p>
+      <p>{props.number}</p> */}
 
       {/* Log Props to Console Inside JSX */}
       {/* {console.log(props)} */}
