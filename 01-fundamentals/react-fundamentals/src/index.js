@@ -11,20 +11,20 @@ const bookImgAlt = "How to Know a Person Book Cover Art";
 const BookList = () => {
   return (
     <section className="book-list">
-      <Book />
-      <Book />
-      <Book />
-      <Book />
+      <Book job="developer" />
+      <Book title="random title" number={22} />
     </section>
   );
 };
 
-const Book = () => {
+const Book = (props) => {
+  console.log(props);
   return (
     <article className="book">
       <img src={bookImgSrc} alt={bookImgAlt} className="book-img" />
       <h2 className="book-title">{bookTitle}</h2>
       <h4 className="book-author">{bookAuthor}</h4>
+      {/* {console.log(props)} */}
       {/* Methods Can Be Used in JSX JavaScript */}
       {/* <h4 className="book-author">{bookAuthor.toUpperCase()}</h4> */}
       {/* Will Compile with Errors, Can't Use Statements */}
