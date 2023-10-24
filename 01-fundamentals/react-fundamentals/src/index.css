@@ -25,6 +25,13 @@ body {
   }
 }
 
+.book {
+  background: #fff;
+  border-radius: 1rem;
+  padding: 2rem;
+  text-align: center;
+}
+
 .book-img {
   width: 100%;
   object-fit: cover;
