@@ -45,13 +45,16 @@ const BookList = () => {
   );
 };
 
-const Book = (props) => {
-  console.log(props);
+// const Book = (props) => {
+const Book = ({ title, author, img, imgAlt }) => {
+  // console.log(props);
+  // const { title, author, img, imgAlt } = props;
   return (
     <article className="book">
-      <img src={props.img} alt={props.imgAlt} className="book-img" />
-      <h2 className="book-title">{props.title}</h2>
-      <h4 className="book-author">{props.author}</h4>
+      <img src={img} alt={imgAlt} className="book-img" />
+      <h2 className="book-title">{title}</h2>
+      <h4 className="book-author">{author}</h4>
+
       {/* Props Only Show on Components Where Those Props Were Given */}
       {/* <p>{props.job}</p>
       <p>{props.title}</p>
