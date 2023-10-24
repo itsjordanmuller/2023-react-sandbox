@@ -7,11 +7,14 @@ import "./index.css";
 
 const BookList = () => {
   return (
-    <section className="book-list">
-      {books.map((book, index) => {
-        return <Book {...book} key={book.id} number={index} />;
-      })}
-    </section>
+    <>
+      <h1>Best Selling Books</h1>
+      <section className="book-list">
+        {books.map((book, index) => {
+          return <Book {...book} key={book.id} number={index} />;
+        })}
+      </section>
+    </>
   );
 };
 
