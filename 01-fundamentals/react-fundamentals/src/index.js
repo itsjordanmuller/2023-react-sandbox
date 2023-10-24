@@ -26,10 +26,12 @@ const Book = () => {
       />
       <h2 className="book-title">{bookTitle}</h2>
       <h4 className="book-author">{bookAuthor}</h4>
+      {/* Methods Can Be Used in JSX JavaScript */}
+      {/* <h4 className="book-author">{bookAuthor.toUpperCase()}</h4> */}
       {/* Will Compile with Errors, Can't Use Statements */}
       {/* <p>{let x = 6}</p> */}
       {/* Expression Will Work & Show 12 */}
-      <p>{6 + 6}</p>
+      {/* <p>{6 + 6}</p> */}
     </article>
   );
 };
