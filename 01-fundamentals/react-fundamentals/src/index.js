@@ -34,7 +34,13 @@ const BookList = () => {
         author={firstBook.bookAuthor}
         img={firstBook.bookImgSrc}
         imgAlt={firstBook.bookImgAlt}
-      />
+      >
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque
+          repudiandae inventore eos qui animi sed iusto alias eius ea sapiente.
+        </p>
+        <button>click me</button>
+      </Book>
       <Book
         title={secondBook.bookTitle}
         author={secondBook.bookAuthor}
@@ -45,15 +51,17 @@ const BookList = () => {
   );
 };
 
-// const Book = (props) => {
-const Book = ({ title, author, img, imgAlt }) => {
-  // console.log(props);
-  // const { title, author, img, imgAlt } = props;
+const Book = (props) => {
+  // const Book = ({ title, author, img, imgAlt, children }) => {
+  console.log(props);
+  const { title, author, img, imgAlt, children } = props;
   return (
     <article className="book">
       <img src={img} alt={imgAlt} className="book-img" />
       <h2 className="book-title">{title}</h2>
       <h4 className="book-author">{author}</h4>
+      {/* Must Use "children" since it's a set name in React */}
+      {children}
 
       {/* Props Only Show on Components Where Those Props Were Given */}
       {/* <p>{props.job}</p>
