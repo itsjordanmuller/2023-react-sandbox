@@ -7,6 +7,9 @@ const MultipleReturnsFetchData = () => {
 
   const [user, setUser] = useState(null);
 
+  // Order Matters - Destructuring Here Will Not Work
+  // const { avatar_url, name, bio, html_url } = user;
+
   useEffect(() => {
     const getUser = async () => {
       try {
@@ -37,17 +40,19 @@ const MultipleReturnsFetchData = () => {
     return <h2>There was an error...</h2>;
   }
 
+  const { avatar_url, name, bio, html_url } = user;
+
   return (
     <div className="container">
       <h2>Fetch Example</h2>
       <img
         style={{ width: "150px", borderRadius: "25px" }}
-        src={user.avatar_url}
-        alt={user.name}
+        src={avatar_url}
+        alt={name}
       />
-      <h2>{user.name}</h2>
-      <p>{user.bio}</p>
-      <a href={user.html_url} className="btn">
+      <h2>{name}</h2>
+      <p>{bio}</p>
+      <a href={html_url} className="btn">
         View GitHub
       </a>
     </div>
