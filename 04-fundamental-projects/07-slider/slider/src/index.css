@@ -295,3 +295,11 @@ ul {
   color: var(--grey-700);
   margin-bottom: 0.75rem;
 }
+
+.text {
+  max-width: 35em;
+  margin: 0 auto;
+  margin-top: 2rem;
+  line-height: 2;
+  color: var(--grey-500);
+}
