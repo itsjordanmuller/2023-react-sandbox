@@ -283,3 +283,15 @@ ul {
   border: 4px solid var(--primary-200);
   box-shadow: var(--shadow-3);
 }
+
+.name {
+  text-transform: uppercase;
+  color: var(--primary-500);
+  margin-bottom: 0.75rem;
+}
+
+.title {
+  text-transform: capitalize;
+  color: var(--grey-700);
+  margin-bottom: 0.75rem;
+}
