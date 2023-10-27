@@ -5,6 +5,10 @@ import { FiChevronLeft, FiChevronRight } from "react-icons/fi";
 
 const Carousel = () => {
   const [people, setPeople] = useState(shortList);
+
+  const prevSlide = () => {};
+  const nextSlide = () => {};
+
   return (
     <section className="slider-container">
       {people.map((person) => {
@@ -19,6 +23,12 @@ const Carousel = () => {
           </article>
         );
       })}
+      <button className="prev" type="button" onClick={prevSlide}>
+        <FiChevronLeft />
+      </button>
+      <button className="next" type="button" onClick={prevSlide}>
+        <FiChevronRight />
+      </button>
     </section>
   );
 };
