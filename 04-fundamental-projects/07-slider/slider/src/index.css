@@ -254,6 +254,16 @@ ul {
 }
 /* ============= PROJECT CSS =============== */
 
+.slider-container {
+  margin: 0 auto;
+  margin-top: 10rem;
+  width: 80vw;
+  max-width: 800px;
+  position: relative;
+  height: 450px;
+  /* overflow: hidden; */
+}
+
 .person-img {
   width: 150px;
   height: 150px;
