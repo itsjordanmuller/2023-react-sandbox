@@ -17,7 +17,13 @@ const App = () => {
     fetchJobs();
   }, []);
 
-  console.log(jobs);
+  if (isLoading) {
+    return (
+      <section className="jobs-center">
+        <div className="loading"></div>
+      </section>
+    );
+  }
 
   return <h2>Tabs Starter</h2>;
 };
