@@ -326,6 +326,11 @@ ul {
   transition: var(--transition);
 }
 
+.prev:hover,
+.next:hover {
+  background: var(--primary-500);
+}
+
 .prev {
   left: 0;
 }
