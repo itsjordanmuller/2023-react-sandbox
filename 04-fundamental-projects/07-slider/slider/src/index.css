@@ -253,3 +253,13 @@ ul {
   margin-top: 1rem;
 }
 /* ============= PROJECT CSS =============== */
+
+.person-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+  object-fit: cover;
+  border: 4px solid var(--primary-200);
+  box-shadow: var(--shadow-3);
+}
