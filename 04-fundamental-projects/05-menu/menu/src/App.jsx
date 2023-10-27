@@ -2,6 +2,7 @@ import { useState } from "react";
 import menu from "./data";
 import Title from "./Title";
 import Menu from "./Menu";
+import Categories from "./Categories";
 
 // Long Way of Getting Unique Categories Using Set
 // const tempCategories = menu.map((item) => item.category);
@@ -19,6 +20,7 @@ const App = () => {
     <main>
       <section className="menu">
         <Title text="Our Menu" />
+        <Categories categories={categories} />
         <Menu items={menuItems} />
       </section>
     </main>
