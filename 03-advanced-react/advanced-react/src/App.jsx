@@ -1,3 +1,4 @@
+import { Test } from "./Test";
 // import Starter from "./tutorial/04-project-structure/Pages";
 import Example from "./tutorial/04-project-structure/Example";
 
@@ -6,6 +7,7 @@ function App() {
     <div className="container">
       {/* <Starter /> */}
       <Example />
+      <Test />
     </div>
   );
 }
