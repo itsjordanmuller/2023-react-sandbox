@@ -303,3 +303,9 @@ ul {
   line-height: 2;
   color: var(--grey-500);
 }
+
+.icon {
+  font-size: 3rem;
+  margin-top: 1rem;
+  color: var(--primary-500);
+}
