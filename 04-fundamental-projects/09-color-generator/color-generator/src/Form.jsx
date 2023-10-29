@@ -8,16 +8,19 @@ const Form = () => {
       <h4>Color Generator</h4>
       <form className="color-form" onSubmit={handleSubmit}>
         <input
+          type="color"
+          value={color}
+          onChange={(e) => setColor(e.target.value)}
+        />
+        <input
           type="text"
           value={color}
           onChange={(e) => setColor(e.target.value)}
           placeholder="#8e44ad"
         />
-        <button
-          type="submit"
-          className="btn"
-          style={{ background: color }}
-        ></button>
+        <button type="submit" className="btn" style={{ background: color }}>
+          Submit
+        </button>
       </form>
     </section>
   );
