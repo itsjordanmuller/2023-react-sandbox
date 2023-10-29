@@ -279,3 +279,7 @@ nav {
   color: var(--primary-700);
   transform: rotate(90deg);
 }
+
+.logo {
+  height: 40px;
+}
