@@ -1,6 +1,6 @@
 import UserContainer from "./UserContainer";
 
-const NavLinks = ({ user, logoutUser }) => {
+const NavLinks = () => {
   return (
     <>
       <div className="nav-container" style={{ display: "flex" }}>
@@ -17,7 +17,7 @@ const NavLinks = ({ user, logoutUser }) => {
         </ul>
       </div>
       <div>
-        <UserContainer user={user} logoutUser={logoutUser} />
+        <UserContainer />
       </div>
     </>
   );
