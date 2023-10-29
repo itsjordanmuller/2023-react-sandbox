@@ -265,3 +265,12 @@ nav {
   justify-content: space-between;
   padding: 1rem;
 }
+
+.nav-toggle {
+  font-size: 1.5rem;
+  color: var(--primary-500);
+  background: transparent;
+  border-color: transparent;
+  transition: var(--transition);
+  cursor: pointer;
+}
