@@ -274,3 +274,8 @@ nav {
   transition: var(--transition);
   cursor: pointer;
 }
+
+.nav-toggle:hover {
+  color: var(--primary-700);
+  transform: rotate(90deg);
+}
