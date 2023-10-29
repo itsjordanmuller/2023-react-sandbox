@@ -302,7 +302,7 @@ nav {
 
 /* 160px Fixed Method */
 
-.links-container {
+/* .links-container {
   height: 0;
   overflow: hidden;
   transition: var(--transition);
@@ -310,4 +310,11 @@ nav {
 
 .show-container {
   height: 10rem;
+} */
+
+/* Dynamic Setup */
+
+.links-container {
+  overflow: hidden;
+  transition: var(--transition);
 }
