@@ -15,8 +15,9 @@ const App = () => {
     setItems([...items, newItem]);
   };
 
-  const removeItem = (itemName) => {
-    //
+  const removeItem = (itemId) => {
+    const newItems = items.filter((item) => item.id !== itemId);
+    setItems(newItems);
   };
 
   return (
