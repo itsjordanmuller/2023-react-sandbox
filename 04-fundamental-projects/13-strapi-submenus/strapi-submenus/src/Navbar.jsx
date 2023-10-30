@@ -3,7 +3,7 @@ import { useGlobalContext } from "./Context";
 import NavLinks from "./NavLinks";
 
 const Navbar = () => {
-  const { openSidebar } = useGlobalContext();
+  const { openSidebar, setPageId } = useGlobalContext();
 
   const handleSubmenu = (e) => {
     if (!e.target.classList.contains("nav-link")) {
