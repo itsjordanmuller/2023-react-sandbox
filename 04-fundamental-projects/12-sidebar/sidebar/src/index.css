@@ -299,6 +299,17 @@ main {
   background: rgba(0, 0, 0, 0.5);
   display: grid;
   place-items: center;
+  z-index: -1;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.show-modal {
+  z-index: 10;
+  visibility: visible;
+  opacity: 1;
+  transition-property: opacity;
+  transition-duration: 2s;
 }
 
 .modal-container {
