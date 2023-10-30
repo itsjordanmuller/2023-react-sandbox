@@ -300,3 +300,15 @@ main {
   display: grid;
   place-items: center;
 }
+
+.modal-container {
+  background: var(--white);
+  width: 90vw;
+  height: 30vh;
+  border-radius: var(--borderRadius);
+  max-width: var(--max-width);
+  text-align: center;
+  display: grid;
+  place-items: center;
+  position: relative;
+}
