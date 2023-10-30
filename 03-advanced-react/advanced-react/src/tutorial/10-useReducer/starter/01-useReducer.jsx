@@ -13,6 +13,8 @@ const REMOVE_ITEM = "REMOVE_ITEM";
 const reducer = (state, action) => {
   if (action.type === CLEAR_LIST) {
     return { ...state, people: [] };
+  } else if (action.type === RESET_LIST) {
+    return { ...state, people: data };
   }
   // return state;
   throw new Error(`No matching "${action.type}" - action type`);
@@ -29,12 +31,10 @@ const ReducerBasics = () => {
 
   const clearList = () => {
     dispatch({ type: CLEAR_LIST });
-    // setPeople([]);
   };
 
   const resetList = () => {
     dispatch({ type: RESET_LIST });
-    // setPeople(data);
   };
 
   return (
