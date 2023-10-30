@@ -306,9 +306,20 @@ main {
   width: 90vw;
   height: 30vh;
   border-radius: var(--borderRadius);
-  max-width: var(--max-width);
+  max-width: var(--fixed-width);
   text-align: center;
   display: grid;
   place-items: center;
   position: relative;
+}
+
+.close-modal-btn {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 2rem;
+  background: transparent;
+  border-color: transparent;
+  cursor: pointer;
+  color: var(--red-dark);
 }
