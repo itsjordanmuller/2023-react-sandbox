@@ -351,6 +351,7 @@ Search Form
   transition: var(--darkModeTransition);
   color: var(--textColor);
   border-radius: 0;
+  transition: var(--dark-transition);
 
   /* border-right: none; */
 }
