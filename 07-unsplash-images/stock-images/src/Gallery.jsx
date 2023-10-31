@@ -7,7 +7,7 @@ const url = "http://localhost:5000/api/images/search";
 const Gallery = () => {
   const { searchTerm } = useGlobalContext();
   const response = useQuery({
-    queryKey: ["images"],
+    queryKey: ["images", searchTerm],
     queryFn: async () => {
       const result = await axios.get(`${url}&query=${searchTerm}`);
 
