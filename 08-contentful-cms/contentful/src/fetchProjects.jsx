@@ -2,13 +2,10 @@ import { createClient } from "contentful";
 import { useEffect } from "react";
 import { useState } from "react";
 
-const SPACE_ID = import.meta.env.VITE_CONTENTFUL_SPACE_ID;
-const ACCESS_TOKEN = import.meta.env.VITE_CONTENTFUL_ACCESS_TOKEN;
-
 const client = createClient({
-  space: SPACE_ID,
+  space: import.meta.env.VITE_CONTENTFUL_SPACE_ID,
   environment: "master",
-  accessToken: ACCESS_TOKEN,
+  accessToken: import.meta.env.VITE_CONTENTFUL_ACCESS_TOKEN,
 });
 
 export const useFetchProjects = () => {
