@@ -3,7 +3,7 @@ import CocktailCard from "./CocktailCard";
 
 const CocktailList = ({ drinks }) => {
   if (!drinks) {
-    return <h4 style={{ textAlign: center }}>No Matching Cocktails Found</h4>;
+    return <h4 style={{ textAlign: "center" }}>No Matching Cocktails Found</h4>;
   }
   const formattedDrinks = drinks.map((item) => {
     const { idDrink, strDrink, strDrinkThumb, strAlcoholic, strGlass } = item;
