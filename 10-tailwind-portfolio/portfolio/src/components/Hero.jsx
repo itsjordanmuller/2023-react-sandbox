@@ -26,7 +26,11 @@ const Hero = () => {
           </div>
         </article>
         <article className="hidden md:block">
-          <img src={heroImg} className="h-80 lg:h-96" alt="" />
+          <img
+            src={heroImg}
+            className="h-80 lg:h-96"
+            alt="Two people discussing a mobile app design"
+          />
         </article>
       </div>
     </div>
