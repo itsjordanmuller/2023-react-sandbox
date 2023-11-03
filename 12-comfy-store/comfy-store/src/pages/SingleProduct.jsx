@@ -19,7 +19,7 @@ const SingleProduct = () => {
   const [productColor, setProductColor] = useState(colors[0]);
   const [amount, setAmount] = useState(1);
 
-  const handleAmount = () => {
+  const handleAmount = (e) => {
     setAmount(parseInt(e.target.value));
   };
 
@@ -31,6 +31,7 @@ const SingleProduct = () => {
     price,
     company,
     productColor,
+    amount,
   };
 
   const dispatch = useDispatch();
