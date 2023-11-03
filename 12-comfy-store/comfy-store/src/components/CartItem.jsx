@@ -1,6 +1,7 @@
 import { formatPrice, generateAmountOptions } from "../utils";
 import { removeItem, editItem } from "../features/cart/cartSlice";
 import { useDispatch } from "react-redux";
+import FormSelect from "./FormSelect";
 
 const CartItem = ({ cartItem }) => {
   const { cartID, title, price, image, amount, company, productColor } =
@@ -18,7 +19,7 @@ const CartItem = ({ cartItem }) => {
         className="h-24 w-24 rounded-lg sm:h-32 sm:w-32 object-cover"
       />
       {/* INFO */}
-      <div className="sm:ml-16">
+      <div className="sm:ml-16 sm:w-48">
         {/* TITLE */}
         <h3 className="capitalize font-medium">{title}</h3>
         {/* COMPANY */}
@@ -34,6 +35,27 @@ const CartItem = ({ cartItem }) => {
           ></span>
         </p>
       </div>
+      <div className="sm:ml-24">
+        {/* AMOUNT */}
+        <div className="form-control max-w-xs">
+          <label htmlFor="amount" className="label p-0">
+            <span className="label-text">Amount</span>
+          </label>
+          <select
+            name="amount"
+            id="amount"
+            className="mt-2 select select-base select-bordered select-xs"
+          >
+            {generateAmountOptions(amount + 5)}
+          </select>
+        </div>
+        {/* REMOVE */}
+        <button className="mt-2 link link-primary link-hover text-sm">
+          Remove
+        </button>
+      </div>
+      {/* PRICE */}
+      <p className="font-medium sm:ml-auto">{formatPrice(price)}</p>
     </article>
   );
 };
