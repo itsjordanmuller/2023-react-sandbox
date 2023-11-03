@@ -35,7 +35,18 @@ const cartSlice = createSlice({
 
       toast.success("Item added to cart successfully");
     },
-    removeItem: (state) => {},
+    removeItem: (state) => {
+      const { cartID } = action.payload;
+      const product = state.cartItems.find((i) => i.cartID === cartID);
+
+      state.cartItems = state.cartItems.filter((i) => i.cartID !== cartID);
+      state.numItemsInCart -= product.amount;
+      state.cartTotal -= product.amount * product.price;
+
+      cartSlice.caseReducers.calculateTotals(state);
+
+      toast.success("Item removed from cart");
+    },
     editItem: (state) => {},
     clearCart: (state) => {
       localStorage.setItem("cart", JSON.stringify(defaultState));
