@@ -1,4 +1,10 @@
+import ProductsGrid from "./ProductsGrid";
+
 const ProductsContainer = () => {
-  return <div>ProductsContainer</div>;
+  return (
+    <>
+      <ProductsGrid />
+    </>
+  );
 };
 export default ProductsContainer;
