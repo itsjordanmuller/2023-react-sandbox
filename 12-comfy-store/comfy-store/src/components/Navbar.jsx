@@ -2,32 +2,20 @@ import { BsCart3, BsMoonFill, BsSunFill } from "react-icons/bs";
 import { FaBarsStaggered } from "react-icons/fa6";
 import { NavLink } from "react-router-dom";
 import NavLinks from "./NavLinks";
-import { useEffect, useState } from "react";
-import { useSelector } from "react-redux";
-
-const themes = {
-  fantasy: "fantasy",
-  dracula: "dracula",
-};
-
-const getThemeFromLocalStorage = () => {
-  return localStorage.getItem("theme") || themes.fantasy;
-};
+import { useDispatch, useSelector } from "react-redux";
+import { toggleTheme } from "../features/user/userSlice";
 
 const Navbar = () => {
-  const [theme, setTheme] = useState(getThemeFromLocalStorage());
-  const handleTheme = () => {
-    const { fantasy, dracula } = themes;
-    const newTheme = theme === fantasy ? dracula : fantasy;
-    setTheme(newTheme);
-  };
-
-  useEffect(() => {
-    document.documentElement.setAttribute("data-theme", theme);
-    localStorage.setItem("theme", theme);
-  }, [theme]);
+  const dispatch = useDispatch();
 
   const numItemsInCart = useSelector((state) => state.cartState.numItemsInCart);
+  const currentTheme = useSelector((state) => state.userState.theme);
+
+  const isDarkMode = currentTheme === "dracula";
+
+  const handleTheme = () => {
+    dispatch(toggleTheme());
+  };
 
   return (
     <nav className="bg-base-200">
@@ -61,7 +49,11 @@ const Navbar = () => {
         <div className="navbar-end">
           {/* THEME SETUP */}
           <label className="swap swap-rotate">
-            <input type="checkbox" onChange={handleTheme} />
+            <input
+              type="checkbox"
+              onChange={handleTheme}
+              checked={isDarkMode}
+            />
             {/* SUN ICON */}
             <BsSunFill className="swap-on h-4 w-4" />
             {/* MOON ICON */}
