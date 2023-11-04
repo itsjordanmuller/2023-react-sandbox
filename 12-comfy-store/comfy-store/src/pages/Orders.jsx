@@ -35,6 +35,16 @@ export const loader =
   };
 
 const Orders = () => {
-  return <h1 className="text-4xl">Orders</h1>;
+  const { meta } = useLoaderData();
+  if (meta.pagination.total < 1) {
+    return <SectionTitle text="No orders have been placed yet" />;
+  }
+  return (
+    <>
+      <SectionTitle text="Your Orders" />
+      <OrdersList />
+      <PaginationContainer />
+    </>
+  );
 };
 export default Orders;
