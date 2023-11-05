@@ -1,5 +1,5 @@
 # React Sandbox
-Self-Paced Learning Sandbox for React, Axios, Router 6, Query 4, Redux Toolkit, ContentfulCMS, Tailwind CSS, Daisy UI & HTML
+Self-Paced Learning Sandbox for React, Axios, Router 6, Query 4, Redux Toolkit, ContentfulCMS, Tailwind CSS, Daisy UI, HTML & CSS
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)
@@ -9,7 +9,8 @@ Self-Paced Learning Sandbox for React, Axios, Router 6, Query 4, Redux Toolkit, 
 ![Contentful CMS](https://img.shields.io/badge/Contentful%20CMS-2478CC.svg?style=for-the-badge&logo=Contentful&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 ![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8.svg?style=for-the-badge&logo=DaisyUI&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
 ## Technologies
 ### [React](https://react.dev/)
