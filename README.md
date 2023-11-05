@@ -30,3 +30,5 @@ Self-Paced Learning Sandbox for React, Axios, Router 6, Query 4, & Redux Toolkit
 ### [N. Cart](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart/cart)
 
 ## [5. Axios](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/05-axios-tutorial/axios)
+
+## [6. React Query](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/06-react-query)
