@@ -17,6 +17,9 @@ Axios is a JavaScript library used to make HTTP requests from node. js or XMLHtt
 ### [React Router](https://reactrouter.com/)
 React Router is a JavaScript framework that handles client and server-side routing in React applications, enabling the creation of single-page web or mobile apps that allow navigating without refreshing the page.
 
+### [React Query](https://tanstack.com/)
+React Query is a data-fetching and state management library for React applications that simplifies fetching, caching, and updating data
+
 ## [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 
 ## [2. Backroads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
