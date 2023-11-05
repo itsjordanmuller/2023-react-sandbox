@@ -7,6 +7,10 @@ Self-Paced Learning Sandbox for React, Axios, Router 6, Query 4, & Redux Toolkit
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 
+## Technologies
+### [React](https://react.dev/)
+React is a free and open-source front-end JavaScript library for building user interfaces based on components.
+
 ## [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 
 ## [2. Backroads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
