@@ -34,3 +34,5 @@ Self-Paced Learning Sandbox for React, Axios, Router 6, Query 4, & Redux Toolkit
 ## [6. React Query](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/06-react-query)
 
 ## [7. Fetch Stock Images](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/07-unsplash-images/stock-images)
+
+## [8. Contentful CMS](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/08-contentful-cms/contentful)
