@@ -5,7 +5,7 @@ Self-Paced Learning Sandbox for React, Axios, Router 6, Query 4, & Redux Toolkit
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 
 ## Technologies
 ### [React](https://react.dev/)
@@ -19,6 +19,9 @@ React Router is a JavaScript framework that handles client and server-side routi
 
 ### [React Query](https://tanstack.com/)
 React Query is a data-fetching and state management library for React applications that simplifies fetching, caching, and updating data
+
+### [Redux](https://redux.js.org/)
+Redux is an open-source JavaScript library for managing and centralizing application state
 
 ## [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 
