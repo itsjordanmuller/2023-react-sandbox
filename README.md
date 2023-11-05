@@ -11,6 +11,9 @@ Self-Paced Learning Sandbox for React, Axios, Router 6, Query 4, & Redux Toolkit
 ### [React](https://react.dev/)
 React is a free and open-source front-end JavaScript library for building user interfaces based on components.
 
+### [Axios](https://axios-http.com/)
+Axios is a JavaScript library used to make HTTP requests from node. js or XMLHttpRequests from the browser
+
 ## [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 
 ## [2. Backroads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
