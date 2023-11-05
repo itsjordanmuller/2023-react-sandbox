@@ -1,5 +1,5 @@
 # React Sandbox
-Self-Paced Learning Sandbox for React, Axios, Router 6, Query 4, Redux Toolkit & Tailwind CSS
+Self-Paced Learning Sandbox for React, Axios, Router 6, Query 4, Redux Toolkit, Tailwind CSS & Daisy UI
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)
@@ -7,6 +7,7 @@ Self-Paced Learning Sandbox for React, Axios, Router 6, Query 4, Redux Toolkit &
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8.svg?style=for-the-badge&logo=DaisyUI&logoColor=white)
 
 ## Technologies
 ### [React](https://react.dev/)
