@@ -14,6 +14,9 @@ React is a free and open-source front-end JavaScript library for building user i
 ### [Axios](https://axios-http.com/)
 Axios is a JavaScript library used to make HTTP requests from node. js or XMLHttpRequests from the browser
 
+### [React Router](https://reactrouter.com/)
+React Router is a JavaScript framework that handles client and server-side routing in React applications, enabling the creation of single-page web or mobile apps that allow navigating without refreshing the page.
+
 ## [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 
 ## [2. Backroads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
