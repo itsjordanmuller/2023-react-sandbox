@@ -73,3 +73,6 @@ Redux Toolkit is our official, opinionated, batteries-included toolset for effic
 ## [11. Redux Toolkit](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/11-redux-toolkit-tutorial)
 
 ## [12. Comfy Store](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/12-comfy-store/comfy-store)
+
+## Sources & Credits
+Guided Exercises by [John Smilga](https://github.com/john-smilga)
