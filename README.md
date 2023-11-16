@@ -87,6 +87,44 @@ In this section of my React learning journey, I have meticulously explored the f
 
 ## [2. Backroads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
 
+### Overview
+
+This section of my React learning journey focuses on developing the "BackRoads App," a travel tour showcase application. The process involved setting up the project using Create-React-App, building individual components, and linking them with a centralized data source for dynamic content rendering.
+
+### Development Steps
+
+#### Initial Setup
+
+- **Project Creation**: Used Create-React-App for initial setup.
+- **Boilerplate Modification**: Removed unnecessary extras from the src folder.
+- **Importing Starter HTML**: Brought in HTML, CSS, and images from the project's starter files and adapted them for React.
+
+#### Component Development and Styling
+
+- **Component Refactoring**: Segmented the app into reusable components, such as `Navbar`, `Hero`, `About`, `Services`, `Tours`, and `Footer`.
+- **Dynamic Content Rendering**: Utilized data from `data.js` for dynamic rendering in components like `Navbar`, `Services`, `Tours`, and `Footer`.
+- **Styling Adjustments**: Modified CSS to fit the React component structure and adjusted class names to the JSX-friendly `className`.
+
+#### Data Centralization and Management
+
+- **Centralized Data Source**: Created `data.js` to manage content for tours, services, page links, and social links.
+- **Dynamic Image Sources**: Modified image sources in components like `Hero` and `About` to dynamically load from the `images` folder.
+- **Reusable Sub-components**: Developed sub-components like `PageLinks`, `SocialLinks`, `Service`, and `Tour` for modular content rendering.
+
+#### Advanced Configuration
+
+- **Package.json Modification**: Adjusted `package.json` to include CI environment variables and build scripts for different environments.
+- **Component Enhancement**: Implemented features like dynamic page links and social icons, refactoring for better code reuse and maintainability.
+
+### Project Structure
+
+- `App.js`: The main app component integrating all sub-components.
+- `data.js`: Central data source for the app's dynamic content.
+- `components/`: Folder containing individual components and sub-components.
+- `images/`: Contains images used throughout the app.
+- `index.js`: Entry point for the React app, rendering `App`.
+- `package.json`: Configuration file for dependencies, scripts, and project metadata.
+
 ## [3. Advanced React Concepts](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react)
 
 ## [4. Fundamental Projects](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects)
