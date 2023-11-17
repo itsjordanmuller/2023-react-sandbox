@@ -347,9 +347,7 @@ The `reducer` function is where the state management logic resides. It takes the
 
 Overall, `ReducerBasics` is a practical demonstration of using `useReducer` for state management in React. It highlights the benefits of `useReducer` in handling complex state logic, providing a more structured and scalable way to manage state compared to `useState`, especially in larger applications.
 
-#### Performance Optimization
-
-> src/tutorial/11-performance/starter
+#### [K. Performance Optimization](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/11-performance/starter)
 
 Covered performance optimization techniques like memoization, React.memo, useCallback, and useMemo to enhance user experience and reduce unnecessary re-renders.
 
