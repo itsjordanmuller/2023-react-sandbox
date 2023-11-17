@@ -398,15 +398,15 @@ Faced various challenges, including but not limited to:
 Linked theoretical knowledge with practical applications in the following projects:
 
 #### useState
-1. Birthday Reminder
+1. Birthday Buddy
 
 #### useEffect and Conditional Rendering
-1. Tours
-2. Reviews
-3. Accordion
-4. Menu
-5. Tabs
-6. Slider
+2. Tours
+3. Reviews
+4. Accordion
+5. Menu
+6. Tabs
+7. Slider
 
 #### Forms
 8. Lorem Ipsum Generator
