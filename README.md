@@ -415,7 +415,9 @@ Linked theoretical knowledge with practical applications in the following projec
 [7. Slider](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider/slider)
 
 #### Forms
-8. Lorem Ipsum Generator
+
+[8. Lorem Ipsum Generator](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum/lorem-ipsum)
+
 9. Color Shades Generator
 10. Grocery Bud
 
