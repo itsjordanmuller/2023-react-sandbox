@@ -433,10 +433,7 @@ Linked theoretical knowledge with practical applications in the following projec
 [13. Strapi Submenus](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus/strapi-submenus)
 
 #### useReducer and useContext
-14. Cart
-
-#### React Router
-15. Cocktails
+[14. Cart](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart/cart)
 
 ## [4. Fundamental Projects](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects)
 
