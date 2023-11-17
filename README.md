@@ -225,9 +225,7 @@ The `Pages` folder contains two components, `Home.jsx` and `About.jsx`, represen
 
 Overall, this section of the tutorial provided practical insights into organizing components and pages in a React application. By effectively structuring files and utilizing index files for exports, the project becomes more manageable, especially as it scales. This structure also aids in maintaining a clean and understandable codebase, which is crucial for collaborative development and long-term project maintenance.
 
-#### Leveraging JavaScript in React
-
-> src/tutorial/05-leverage-javascript/starter
+#### [E. Leveraging JavaScript in React](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/05-leverage-javascript/starter)
 
 Embraced JavaScript features like mapping over arrays and object destructuring within React components.
 
