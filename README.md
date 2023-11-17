@@ -292,9 +292,7 @@ The `useToggle` hook encapsulates the logic for toggling a boolean state. It's a
 
 Through these exercises, I explored the concept and power of custom hooks in React. Custom hooks enable the extraction and reuse of complex logic, making components cleaner and more concise. They are a powerful tool for building maintainable and scalable React applications, as they allow for the sharing of functionality across different components without duplicating code.
 
-#### Context API
-
-> src/tutorial/09-context-api
+#### [I. Context API](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/09-context-api)
 
 Investigated React's Context API for efficient data passage through component trees, eliminating the need for prop drilling.
 
