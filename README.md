@@ -430,7 +430,7 @@ Linked theoretical knowledge with practical applications in the following projec
 
 [12. Sidebar](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar/sidebar)
 
-13. Stripe Menus
+[13. Strapi Submenus](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus/strapi-submenus)
 
 #### useReducer and useContext
 14. Cart
