@@ -198,9 +198,7 @@ Finally, `UserChallenge` focused on a common use case: toggling between user log
 
 Throughout these exercises, I gained a comprehensive understanding of conditional rendering in React. From handling multiple states and asynchronous data fetching to applying rules of hooks and implementing user interactions, each example contributed to a deeper understanding of dynamically rendering different UI elements based on state and props in React.
 
-#### Project Structure
-
-> src/tutorial/04-project-structure
+#### [D. Project Structure](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/04-project-structure)
 
 Practiced organizing components, CSS, and JavaScript files for scalability and maintainability, focusing on efficient use of index files.
 
