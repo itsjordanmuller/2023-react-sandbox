@@ -423,7 +423,7 @@ Linked theoretical knowledge with practical applications in the following projec
 [10.  Grocery Bud](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud/grocery-bud)
 
 #### useRef
-11. Navbar
+[11. Navbar](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar/navbar)
 
 #### useContext
 12. Modal and Sidebar
