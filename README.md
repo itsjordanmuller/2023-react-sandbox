@@ -150,9 +150,7 @@ In `UseStateObject`, I managed the state of an object containing multiple proper
 
 Overall, these exercises deepened my understanding of `useState`, emphasizing its importance in React for state management and re-rendering components. I explored various use cases, from simple counters to managing arrays and objects, and tackled common issues like asynchronous state updates.
 
-#### useEffect
-
-> src/tutorial/02-useEffect/starter
+#### [B. useEffect](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/02-useEffect/starter)
 
 Learned about useEffect for managing side effects, data fetching, and the critical role of cleanup functions.
 
