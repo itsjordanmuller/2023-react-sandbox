@@ -406,7 +406,8 @@ Linked theoretical knowledge with practical applications in the following projec
 
 [3. Reviews](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews/reviews)
 
-4. Accordion
+[4. Accordion](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion/accordion)
+
 5. Menu
 6. Tabs
 7. Slider
