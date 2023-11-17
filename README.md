@@ -412,7 +412,7 @@ Linked theoretical knowledge with practical applications in the following projec
 
 [6. Tabs](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs/tabs)
 
-7. Slider
+[7. Slider](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider/slider)
 
 #### Forms
 8. Lorem Ipsum Generator
