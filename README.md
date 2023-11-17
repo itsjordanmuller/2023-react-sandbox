@@ -258,9 +258,7 @@ In `UncontrolledInputs`, I experimented with the FormData API to handle form sub
 
 Through these exercises, I gained a comprehensive understanding of handling forms in React. From controlled inputs, managing multiple inputs, adapting to different input types, to experimenting with the FormData API, each example deepened my knowledge of form handling, a critical aspect of user interactions in web applications.
 
-#### useRef
-
-> src/tutorial/07-useRef/starter
+#### [G. useRef](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/07-useRef/starter)
 
 Explored useRef for accessing DOM elements and retaining values across renders without causing re-renders.
 
