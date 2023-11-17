@@ -410,7 +410,8 @@ Linked theoretical knowledge with practical applications in the following projec
 
 [5. Menu](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu/menu)
 
-6. Tabs
+[6. Tabs](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs/tabs)
+
 7. Slider
 
 #### Forms
