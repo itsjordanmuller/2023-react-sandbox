@@ -326,9 +326,7 @@ These files illustrate the traditional prop drilling method, where state and fun
 
 Through these exercises, I gained a comprehensive understanding of different state management strategies in React. The Context API and global context approaches allow for more efficient state management in larger applications, avoiding the complexity and maintenance issues associated with prop drilling. Prop drilling, while simpler, is more suitable for small applications with a limited component hierarchy. Each method has its own use cases and understanding when to use each is key to building efficient and maintainable React applications.
 
-#### useReducer
-
-> src/tutorial/10-useReducer/starter
+#### [J. useReducer](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/10-useReducer/starter)
 
 Managed complex state logic with useReducer, particularly beneficial for handling multiple state transitions.
 
