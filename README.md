@@ -129,9 +129,7 @@ This section of the project is a deep dive into the more advanced aspects of Rea
 
 This section of the project is methodically structured into directories, each centered around a pivotal React concept:
 
-#### useState
-
-> src/tutorial/01-useState/starter
+#### [A. useState](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/01-useState/starter)
 
 Explored the basics of useState for handling variables, arrays, objects, and grasped the nuances and common pitfalls.
 
