@@ -171,9 +171,7 @@ Finally, `CleanupFunction` focused on the cleanup aspect of `useEffect`. It demo
 
 These exercises provided a comprehensive overview of `useEffect`, from basic usage to complex scenarios involving data fetching and cleanup. Each example built upon the previous, enhancing my understanding of managing side effects in functional components using the `useEffect` hook.
 
-#### Conditional Rendering
-
-> src/tutorial/03-conditional-rendering/starter
+#### [C. Conditional Rendering](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/03-conditional-rendering/starter)
 
 Dived into rendering components conditionally using multiple return statements, short-circuit evaluation, and ternary operators.
 
