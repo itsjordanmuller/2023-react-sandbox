@@ -373,6 +373,20 @@ Overall, `ReducerBasics` is a practical demonstration of using `useReducer` for 
 
 Covered performance optimization techniques like memoization, React.memo, useCallback, and useMemo to enhance user experience and reduce unnecessary re-renders.
 
+##### `01-lower-state`
+In this section, I explored the basic setup of state management in React. The `Counter` component manages its own state, incrementing a count on button click. `List` renders a list of `Person` components, each displaying a name. This structure demonstrates a common pattern in React applications, where each component manages its own state or receives data as props.
+
+##### `02-lower-state-challenge`
+The `LowerStateChallenge` module introduced a more complex state management scenario. Here, I used a form (`Form.jsx`) to add new people to a list. The `Form` component updates the parent component's (`index.jsx`) state, demonstrating how to lift state up for shared state management across components. This pattern is essential for maintaining consistency and flow of data in larger applications.
+
+##### `03-hooks`
+In this module, I focused on optimizing performance using React hooks. The `memo` hook in `List.jsx` helps prevent unnecessary re-renders of the list when the parent component's state changes. `useCallback` in `index.jsx` ensures that the `removePerson` function is not recreated on every render, which is crucial for performance, especially when passing callbacks to deeply nested child components.
+
+##### `04-react-18`
+This section delved into React 18's new features for performance optimization. `SlowComponent` is a heavy component, rendering a large list of items. In `index.jsx`, I used the `useTransition` hook to manage a loading state while performing a CPU-intensive task, improving the user experience by avoiding UI freezing. The `Suspense` component and `lazy` loading are used to defer rendering of `SlowComponent`, demonstrating React 18's capabilities in handling heavy components more efficiently.
+
+Through these exercises, I gained a deeper understanding of various strategies for managing and optimizing state in React applications. From basic state management and lifting state up to utilizing advanced hooks and React 18 features, each step provided valuable insights into building efficient, scalable, and performant React applications.
+
 ### Key Learnings and Challenges
 
 Through this journey, I've gained a deeper understanding of React's capabilities and best practices. Here are some of the key takeaways:
