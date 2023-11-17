@@ -237,9 +237,7 @@ In `List.jsx`, I utilized the JavaScript `map` function to iterate over an array
 
 Overall, these exercises emphasized the importance of JavaScript proficiency in React development. They illustrated how fundamental JavaScript concepts and newer features can be effectively applied in React to create dynamic, flexible, and resilient user interfaces.
 
-#### Forms
-
-> src/tutorial/06-forms/starter
+#### [F. Forms](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/06-forms/starter)
 
 Handled form inputs and managed form state using the State hook, exploring controlled components in depth.
 
