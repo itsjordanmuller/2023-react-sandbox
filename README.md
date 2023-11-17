@@ -401,8 +401,11 @@ Linked theoretical knowledge with practical applications in the following projec
 [1. Birthday Buddy](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy/birthday-buddy)
 
 #### useEffect and Conditional Rendering
+
 [2. Tours](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours/tours)
-3. Reviews
+
+[3. Reviews](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews/reviews)
+
 4. Accordion
 5. Menu
 6. Tabs
