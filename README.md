@@ -271,9 +271,7 @@ In `UseRefBasics`, I delved into the `useRef` hook, a powerful feature in React 
 
 The `handleSubmit` function showcases a practical use of `useRef` by accessing the value of the input field directly, a common pattern in form handling. This exercise was instrumental in understanding the versatility of `useRef`, from manipulating the DOM to preserving data across component updates, making it a unique tool in the React hook arsenal.
 
-#### Custom Hooks
-
-> src/tutorial/08-custom-hooks/starter
+#### [H. Custom Hooks](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/08-custom-hooks/starter)
 
 Created custom hooks for data fetching and state toggling, abstracting logic for reuse across components.
 
