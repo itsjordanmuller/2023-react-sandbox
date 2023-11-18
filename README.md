@@ -91,7 +91,9 @@ In this section of my React learning journey, I have meticulously explored the f
 - `src/books.js`: Array of book objects, demonstrating data structuring.
 - `src/index.css`: Central CSS file for styling.
 
-## [2. Backroads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
+## [2. BackRoads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
+
+![BackRoads - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/02-backroads-project/02-backroads-site.png)
 
 This section of my React learning journey focuses on developing the "BackRoads App," a travel tour showcase application. The process involved setting up the project using Create-React-App, building individual components, and linking them with a centralized data source for dynamic content rendering.
 
