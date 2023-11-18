@@ -5,12 +5,11 @@ import Tour from "./Tour";
 const Tours = () => {
   return (
     <section className="section" id="tours">
-      <Title wordOne="featured" wordTwo="tours" />;
+      <Title wordOne="featured" wordTwo="tours" />
       <div className="section-center featured-center">
         {tours.map((tour) => {
           return <Tour key={tour.id} {...tour} />;
         })}
-        ;
       </div>
     </section>
   );
