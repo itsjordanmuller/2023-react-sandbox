@@ -122,6 +122,44 @@ This section of my React learning journey focuses on developing the "BackRoads A
 - **Package.json Modification**: Adjusted `package.json` to include CI environment variables and build scripts for different environments.
 - **Component Enhancement**: Implemented features like dynamic page links and social icons, refactoring for better code reuse and maintainability.
 
+### Components
+
+#### About Component
+
+![About - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/02-backroads-project/02-backroads-component-1.png)
+
+#### Services Component
+
+![Services - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/02-backroads-project/02-backroads-component-2.png)
+
+#### Tours Component
+
+![Tours - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/02-backroads-project/02-backroads-component-3.png)
+
+#### Footer Component
+
+![Footer - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/02-backroads-project/02-backroads-component-4.png)
+
+#### Hero Component
+
+![Hero - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/02-backroads-project/02-backroads-component-5.png)
+
+#### Navbar Component
+
+![Navbar - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/02-backroads-project/02-backroads-component-6.png)
+
+#### Title Component
+
+![Title - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/02-backroads-project/02-backroads-component-7.png)
+
+#### Social Links Component
+
+![Social Links - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/02-backroads-project/02-backroads-component-8.png)
+
+#### Page Links Component
+
+![Page Links - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/02-backroads-project/02-backroads-component-9.png)
+
 ### Project Structure
 
 - `App.js`: The main app component integrating all sub-components.
