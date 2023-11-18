@@ -452,9 +452,16 @@ Linked theoretical knowledge with practical applications in the following projec
 ![Birthday Buddy - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-site.png)
 
 ##### Birthday Buddy Components
+
+###### App Component
+
 ![App - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-component-1.png)
 
+###### List Component
+
 ![List - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-component-2.png)
+
+###### Person Component
 
 ![Person - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-component-3.png)
 
@@ -498,6 +505,8 @@ Linked theoretical knowledge with practical applications in the following projec
 
 ### [A. Birthday Buddy](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy/birthday-buddy)
 
+![Birthday Buddy - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-site.png)
+
 The Birthday Buddy Project is a simple, interactive web application designed to display and manage a list of birthdays. Developed using React, this project showcases fundamental React concepts and functionalities, including the use of state, components, and event handling.
 
 #### Features
@@ -513,6 +522,20 @@ The Birthday Buddy Project is a simple, interactive web application designed to 
 
 - **Interactive Features**: The app features a button in the main container that allows users to clear all items from the birthday list, demonstrating state manipulation and event handling.
 - **Styling and Layout**: Custom CSS is used for styling, ensuring a responsive and visually appealing interface.
+
+#### Birthday Buddy Components
+
+#### App Component
+
+![App - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-component-1.png)
+
+#### List Component
+
+![List - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-component-2.png)
+
+#### Person Component
+
+![Person - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-component-3.png)
 
 #### Learning Outcomes
 
