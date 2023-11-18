@@ -515,7 +515,9 @@ Linked theoretical knowledge with practical applications in the following projec
 
 ![Question (Closed) - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-component-3.png)
 
-- [5. Menu](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu/menu)
+##### [5. Menu](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu/menu)
+
+![Menu - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-site.png)
 
 - [6. Tabs](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs/tabs)
 
