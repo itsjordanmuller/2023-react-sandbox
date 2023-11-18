@@ -523,15 +523,15 @@ Linked theoretical knowledge with practical applications in the following projec
 
 ###### Title Component
 
-![Title - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/05-fundamental-projects/05-menu/05-menu-component-1.png)
+![Title - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-component-1.png)
 
 ###### Menu Component
 
-![Menu - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/05-fundamental-projects/05-menu/05-menu-component-2.png)
+![Menu - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-component-2.png)
 
 ###### MenuItem Component
 
-![MenuItem - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/05-fundamental-projects/05-menu/04-menu-component-3.png)
+![MenuItem - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-component-3.png)
 
 - [6. Tabs](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs/tabs)
 
@@ -761,15 +761,15 @@ The Menu Project is an interactive and responsive web application developed usin
 
 ##### Title Component
 
-![Title - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/05-fundamental-projects/05-menu/05-menu-component-1.png)
+![Title - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-component-1.png)
 
 ##### Menu Component
 
-![Menu - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/05-fundamental-projects/05-menu/05-menu-component-2.png)
+![Menu - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-component-2.png)
 
 ##### MenuItem Component
 
-![MenuItem - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/05-fundamental-projects/05-menu/04-menu-component-3.png)
+![MenuItem - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-component-3.png)
 
 #### Implementation Process
 
