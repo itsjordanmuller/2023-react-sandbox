@@ -38,6 +38,12 @@ Redux Toolkit is our official, opinionated, batteries-included toolset for effic
 
 ## [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 
+![Best Selling Books - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/01-fundamentals-site.png)
+
+### Book Component
+
+![Best Selling Books - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/01-fundamentals-component-1.png)
+
 In this section of my React learning journey, I have meticulously explored the foundational concepts and techniques crucial for building React applications. Each commit in my repository is a step in this journey, reflecting my evolving understanding and application of React.
 
 ### Key Learnings
