@@ -683,6 +683,8 @@ The application is styled using custom CSS to provide a user-friendly and engagi
 
 The Accordion Project is a dynamic web application built using React, designed to display a list of frequently asked questions (FAQs) in an accordion-style format. This project emphasizes the use of state management, conditional rendering, and component-based architecture in React.
 
+![Accordion - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-site.png)
+
 #### Features
 
 - **Data Handling**: The project begins by importing a set of questions from `data.js`, which consists of an array of objects. Each object represents a FAQ with a title and corresponding information.
@@ -690,6 +692,20 @@ The Accordion Project is a dynamic web application built using React, designed t
 - **Dynamic Question Rendering**: The application iterates over the questions array, rendering a `SingleQuestion` component for each FAQ. This component includes the question title and a toggle button to show or hide the answer.
 - **Toggle Functionality**: Each `SingleQuestion` component has a toggle button that controls the display of the answer. Clicking the button toggles the state of a `showInfo` flag, determining whether the answer text is shown.
 - **Exclusive Open Question**: The application is enhanced with functionality to ensure that only one question can be open at a time. This is achieved by modifying the state to track the currently selected question index.
+
+#### Accordion Components
+
+##### Questions Component
+
+![Accordion - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-component-1.png)
+
+##### Question Component - Open
+
+![Question (Open) - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-component-2.png)
+
+##### Question Component - Closed
+
+![Question (Closed) - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-component-3.png)
 
 #### Implementation Process
 
