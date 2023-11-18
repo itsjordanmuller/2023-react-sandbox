@@ -491,6 +491,12 @@ Linked theoretical knowledge with practical applications in the following projec
 
 ![Reviews - Site Image 2](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/03-reviews/03-reviews-site-2.png)
 
+##### Reviews Components
+
+###### Reviews Component
+
+![Reviews - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/03-reviews/03-reviews-component-1.png)
+
 - [4. Accordion](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion/accordion)
 
 - [5. Menu](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu/menu)
