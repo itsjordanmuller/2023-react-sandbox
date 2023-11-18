@@ -485,7 +485,11 @@ Linked theoretical knowledge with practical applications in the following projec
 
 ![Loading - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-component-3.png)
 
-- [3. Reviews](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews/reviews)
+##### [3. Reviews](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews/reviews)
+
+![Reviews - Site Image 1](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/03-reviews/03-reviews-site-1.png)
+
+![Reviews - Site Image 2](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/03-reviews/03-reviews-site-2.png)
 
 - [4. Accordion](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion/accordion)
 
