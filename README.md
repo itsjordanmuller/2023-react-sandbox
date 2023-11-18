@@ -40,10 +40,6 @@ Redux Toolkit is our official, opinionated, batteries-included toolset for effic
 
 ![Best Selling Books - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/01-fundamentals/01-fundamentals-site.png)
 
-### Book Component
-
-![Best Selling Books - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/01-fundamentals/01-fundamentals-component-1.png)
-
 In this section of my React learning journey, I have meticulously explored the foundational concepts and techniques crucial for building React applications. Each commit in my repository is a step in this journey, reflecting my evolving understanding and application of React.
 
 ### Key Learnings
@@ -80,6 +76,12 @@ In this section of my React learning journey, I have meticulously explored the f
 - **Destructuring and Children Props**: Utilized destructuring for cleaner code and explored the use of children props for component flexibility.
 - **Event Handling Enhancements**: Delved deeper into event handling, showcasing methods for more concise and direct event management in components.
 - **Complex Prop Drilling**: Tackled more advanced prop drilling scenarios involving functions as props.
+
+### Components
+
+#### Book Component
+
+![Best Selling Books - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/01-fundamentals/01-fundamentals-component-1.png)
 
 ### Project Structure
 
