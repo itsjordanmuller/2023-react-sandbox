@@ -1,4 +1,9 @@
+<div align="center">
+
 # React Sandbox
+
+<img src="https://custom-icon-badges.demolab.com/badge/React%20Sandbox-282A36.svg?style=for-the-badge&logo=react&logoColor=5ED4F3" width="100%"/>
+
 Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm), React Router 6, React Query 4, Redux Toolkit, Create React App, Vite, ContentfulCMS, Tailwind CSS, daisyUI, HTML, CSS & JavaScript
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
@@ -17,7 +22,10 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
+</div>
+
 ## Technologies
+
 ### [React](https://react.dev/)
 React is a free and open-source front-end JavaScript library for building user interfaces based on components.
 
