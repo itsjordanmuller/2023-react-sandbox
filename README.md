@@ -22,9 +22,12 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
-</div>
+<details>
+<summary>(Show/Hide) - Overview of Tools & Tech 💻</summary>
 
-## Technologies
+<div align="left">
+
+## Overview of Technologies
 
 ### [React](https://react.dev/)
 React is a free and open-source front-end JavaScript library for building user interfaces based on components.
@@ -43,6 +46,11 @@ Redux is an open-source JavaScript library for managing and centralizing applica
 
 ### [Redux Toolkit](https://redux-toolkit.js.org/)
 Redux Toolkit is our official, opinionated, batteries-included toolset for efficient Redux development.
+
+</div>
+
+</details>
+</div>
 
 ## [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 
