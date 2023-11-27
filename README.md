@@ -22,6 +22,52 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
+## Main Sections & Projects
+
+<img src="https://custom-icon-badges.demolab.com/badge/Sections-f8f8f2.svg?logo=bookmark&logoColor=000000" alt="Sections" width="112px" />
+<img src="https://custom-icon-badges.demolab.com/badge/Projects-f8f8f2.svg?logo=star-fill&logoColor=000000" alt="Projects" width="112px" /><br/><br/>
+
+<img src="https://custom-icon-badges.demolab.com/badge/Fundamentals-ffb2b2.svg?logo=bookmark&logoColor=000000" alt="Fundamentals" />
+<img src="https://custom-icon-badges.demolab.com/badge/Backroads%20Project-ffbeb2.svg?logo=star-fill&logoColor=000000" alt="Backroads Project" />
+
+<img src="https://custom-icon-badges.demolab.com/badge/Advanced%20React-ffcbb2.svg?logo=bookmark&logoColor=000000" alt="Advanced React" />
+<img src="https://custom-icon-badges.demolab.com/badge/useState%20Hook-ffd7b2.svg?logo=bookmark&logoColor=000000" alt="useState Hook" />
+<img src="https://custom-icon-badges.demolab.com/badge/useEffect%20Hook-ffe4b2.svg?logo=bookmark&logoColor=000000" alt="useEffect Hook" />
+<img src="https://custom-icon-badges.demolab.com/badge/Conditional%20Rendering-fff0b2.svg?logo=bookmark&logoColor=000000" alt="Conditional Rendering" />
+<img src="https://custom-icon-badges.demolab.com/badge/Project%20Structure-fffcb2.svg?logo=bookmark&logoColor=000000" alt="Project Structure" />
+<img src="https://custom-icon-badges.demolab.com/badge/Leverage%20JavaScript-f4ffb2.svg?logo=bookmark&logoColor=000000" alt="Leverage JavaScript" />
+<img src="https://custom-icon-badges.demolab.com/badge/Forms-e8ffb2.svg?logo=bookmark&logoColor=000000" alt="Forms" />
+<img src="https://custom-icon-badges.demolab.com/badge/useRef%20Hook-dbffb2.svg?logo=bookmark&logoColor=000000" alt="useRef Hook" />
+<img src="https://custom-icon-badges.demolab.com/badge/Custom%20Hooks-cfffb2.svg?logo=bookmark&logoColor=000000" alt="Custom Hooks" />
+<img src="https://custom-icon-badges.demolab.com/badge/Context%20API-c3ffb2.svg?logo=bookmark&logoColor=000000" alt="Context API" />
+<img src="https://custom-icon-badges.demolab.com/badge/useReducer%20Hook-b6ffb2.svg?logo=bookmark&logoColor=000000" alt="useReducer Hook" />
+<img src="https://custom-icon-badges.demolab.com/badge/Performance-b2ffba.svg?logo=bookmark&logoColor=000000" alt="Performance" />
+
+<img src="https://custom-icon-badges.demolab.com/badge/Fundamental%20Projects-b2ffc7.svg?logo=bookmark&logoColor=000000" alt="Fundamental Projects" />
+<img src="https://custom-icon-badges.demolab.com/badge/Birthday%20Buddy%20Project-b2ffd3.svg?logo=star-fill&logoColor=000000" alt="Birthday Buddy Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Tours%20Project-b2ffdf.svg?logo=star-fill&logoColor=000000" alt="Tours Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Reviews%20Project-b2ffec.svg?logo=star-fill&logoColor=000000" alt="Reviews Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Accordion%20Project-b2fff8.svg?logo=star-fill&logoColor=000000" alt="Accordion Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Menu%20Project-b2f8ff.svg?logo=star-fill&logoColor=000000" alt="Menu Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Tabs%20Project-b2ecff.svg?logo=star-fill&logoColor=000000" alt="Tabs Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Slider%20Project-b2dfff.svg?logo=star-fill&logoColor=000000" alt="Slider Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Lorem%20Ipsum%20Project-b2d3ff.svg?logo=star-fill&logoColor=000000" alt="Lorem Ipsum Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Color%20Generator%20Project-b2c7ff.svg?logo=star-fill&logoColor=000000" alt="Color Generator Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Grocery%20Bud%20Project-b2baff.svg?logo=star-fill&logoColor=000000" alt="Grocery Bud Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Navbar%20Project-b6b2ff.svg?logo=star-fill&logoColor=000000" alt="Navbar Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Sidebar%20Project-c3b2ff.svg?logo=star-fill&logoColor=000000" alt="Sidebar Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Strapi%20Submenus%20Project-cfb2ff.svg?logo=star-fill&logoColor=000000" alt="Strapi Submenus Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Cart%20Project-dbb2ff.svg?logo=star-fill&logoColor=000000" alt="Cart Project" />
+
+<img src="https://custom-icon-badges.demolab.com/badge/Axios%20Tutorial-e8b2ff.svg?logo=bookmark&logoColor=000000" alt="Axios Tutorial" />
+<img src="https://custom-icon-badges.demolab.com/badge/React%20Query-f4b2ff.svg?logo=bookmark&logoColor=000000" alt="React Query" />
+<img src="https://custom-icon-badges.demolab.com/badge/Unsplash%20Images%20Project-ffb2fc.svg?logo=star-fill&logoColor=000000" alt="Unsplash Images Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Contentful%20CMS%20Project-ffb2f0.svg?logo=star-fill&logoColor=000000" alt="Contentful CMS Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/MixMaster%20Project-ffb2e4.svg?logo=star-fill&logoColor=000000" alt="MixMaster Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20Portfolio-ffb2d7.svg?logo=star-fill&logoColor=000000" alt="Tailwind Portfolio" />
+<img src="https://custom-icon-badges.demolab.com/badge/Redux%20Toolkit-ffb2cb.svg?logo=bookmark&logoColor=000000" alt="Redux Toolkit" />
+<img src="https://custom-icon-badges.demolab.com/badge/Comfy%20Store%20Project-ffb2be.svg?logo=star-fill&logoColor=000000" alt="Comfy Store Project" /><br/><br/>
+
 <details>
 <summary>(Show/Hide) - Overview of Tools & Tech 💻</summary>
 
