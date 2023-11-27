@@ -52,6 +52,11 @@ Redux Toolkit is our official, opinionated, batteries-included toolset for effic
 </details>
 </div>
 
+## Section Overviews
+
+<details open>
+<summary>(Hide/Show) - Section Overviews 📑</summary>
+
 ## [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 
 ![Best Selling Books - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/01-fundamentals/01-fundamentals-site.png)
@@ -1842,5 +1847,10 @@ Continuing from Challenge 31, the project progresses with the following challeng
 ### Challenges
 Throughout these challenges, the Comfy Store project focuses on building a comprehensive e-commerce application. It covers various aspects such as setting up the project environment, creating functional components, implementing routing and state management, handling user inputs and filters, and introducing responsive design and thematic elements. The project provides a practical approach to developing a modern React application with an emphasis on functionality, usability, and aesthetics.
 
-## Sources & Credits
+</details>
+
+## Sources, Credits & Acknowledgments
+
+### Course Details
+
 Guided Exercises by [John Smilga](https://github.com/john-smilga)
