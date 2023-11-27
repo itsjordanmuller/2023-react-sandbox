@@ -29,23 +29,14 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 
 ## Overview of Technologies
 
-### [React](https://react.dev/)
-React is a free and open-source front-end JavaScript library for building user interfaces based on components.
-
-### [Axios](https://axios-http.com/)
-Axios is a JavaScript library used to make HTTP requests from node. js or XMLHttpRequests from the browser.
-
-### [React Router](https://reactrouter.com/)
-React Router is a JavaScript framework that handles client and server-side routing in React applications, enabling the creation of single-page web or mobile apps that allow navigating without refreshing the page.
-
-### [React Query](https://tanstack.com/)
-React Query is a data-fetching and state management library for React applications that simplifies fetching, caching, and updating data.
-
-### [Redux](https://redux.js.org/)
-Redux is an open-source JavaScript library for managing and centralizing application state.
-
-### [Redux Toolkit](https://redux-toolkit.js.org/)
-Redux Toolkit is our official, opinionated, batteries-included toolset for efficient Redux development.
+| Technology | Overview | Release Year |
+| ---------- | -------- | ------------ |
+| [React](https://react.dev/) | A JavaScript library for building user interfaces, especially for single-page applications. It enables efficient data updates without page reloads using reusable components. | [2013](https://github.com/facebook/react/releases/tag/v0.3.0) |
+| [React Router](https://reactrouter.com/) | A JavaScript framework for routing in React apps, facilitating navigation between component views and syncing UI with the URL. It supports dynamic and nested routing. | [2015](https://github.com/remix-run/react-router/releases/tag/v0.2.0) |
+| [Redux](https://redux.js.org/) | A state management tool for JavaScript apps, commonly paired with React. It centralizes application state, aiding in debugging and tracking state changes. | [2015](https://github.com/reduxjs/redux/releases/tag/v0.2.0) |
+| [Axios](https://axios-http.com/) | A promise-based HTTP client for JavaScript, used for asynchronous web requests and CRUD operations. It offers ease of use and broad browser compatibility. | [2016](https://github.com/axios/axios/releases/tag/v0.10.0) |
+| [Redux Toolkit](https://redux-toolkit.js.org/) | An official toolset for Redux development, simplifying Redux logic, reducing boilerplate, and providing utilities for efficient state management. | [2018](https://github.com/reduxjs/redux-toolkit/releases/tag/v0.3.0) |
+| [React Query](https://tanstack.com/) | A library for data fetching, caching, and updating in React applications. It enhances user experience by managing server state, background updates, and caching. | [2020](https://github.com/TanStack/query/releases/tag/v1.3.2) |
 
 </div>
 
