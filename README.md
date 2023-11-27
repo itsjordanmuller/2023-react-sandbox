@@ -30,12 +30,15 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 ## Overview of Technologies
 
 | Technology | Overview | Release Year |
-| ---------- | -------- | ------------ |
+| :--------: | -------- | :----------: |
+| [HTML5](https://www.w3.org/html/) | The standard language for creating web pages and applications. It provides the structure for web content, defining elements like headings, paragraphs, links, and images. | [1991](https://en.wikipedia.org/wiki/HTML) |
+| [JavaScript](https://tc39.es/ecma262/2023/) | A high-level, versatile programming language that enables interactive and dynamic content on web pages. It's a core technology of the World Wide Web, alongside HTML and CSS. | [1995](https://en.wikipedia.org/wiki/JavaScript) |
+| [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) | A stylesheet language used to describe the presentation of documents written in HTML. CSS enables the separation of content from design, allowing for flexibility in layout, colors, and fonts. | [1996](https://en.wikipedia.org/wiki/CSS) |
 | [React](https://react.dev/) | A JavaScript library for building user interfaces, especially for single-page applications. It enables efficient data updates without page reloads using reusable components. | [2013](https://github.com/facebook/react/releases/tag/v0.3.0) |
 | [React Router](https://reactrouter.com/) | A JavaScript framework for routing in React apps, facilitating navigation between component views and syncing UI with the URL. It supports dynamic and nested routing. | [2015](https://github.com/remix-run/react-router/releases/tag/v0.2.0) |
 | [Redux](https://redux.js.org/) | A state management tool for JavaScript apps, commonly paired with React. It centralizes application state, aiding in debugging and tracking state changes. | [2015](https://github.com/reduxjs/redux/releases/tag/v0.2.0) |
 | [Axios](https://axios-http.com/) | A promise-based HTTP client for JavaScript, used for asynchronous web requests and CRUD operations. It offers ease of use and broad browser compatibility. | [2016](https://github.com/axios/axios/releases/tag/v0.10.0) |
-| [Redux Toolkit](https://redux-toolkit.js.org/) | An official toolset for Redux development, simplifying Redux logic, reducing boilerplate, and providing utilities for efficient state management. | [2018](https://github.com/reduxjs/redux-toolkit/releases/tag/v0.3.0) |
+| [Redux&nbsp;Toolkit](https://redux-toolkit.js.org/) | An official toolset for Redux development, simplifying Redux logic, reducing boilerplate, and providing utilities for efficient state management. | [2018](https://github.com/reduxjs/redux-toolkit/releases/tag/v0.3.0) |
 | [React Query](https://tanstack.com/) | A library for data fetching, caching, and updating in React applications. It enhances user experience by managing server state, background updates, and caching. | [2020](https://github.com/TanStack/query/releases/tag/v1.3.2) |
 
 </div>
