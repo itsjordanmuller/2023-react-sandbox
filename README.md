@@ -98,6 +98,51 @@ Redux Toolkit is our official, opinionated, batteries-included toolset for effic
 </details>
 </div>
 
+## Table of Contents
+<details open>
+<summary>(Hide/Show) - Table of Contents 🗃️</summary>
+
+* [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals)
+   - [A. Book List](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
+* [2. Backroads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project)
+* [3. Advanced React](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react)
+   - [A. useState Hook](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/01-useState/starter)
+   - [B. useEffect Hook](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/02-useEffect/starter)
+   - [C. Conditional Rendering](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/03-conditional-rendering/starter)
+   - [D. Project Structure](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/04-project-structure)
+   - [E. Leveraging JavaScript](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/05-leverage-javascript/starter)
+   - [F. Forms](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/06-forms/starter)
+   - [G. useRef Hook](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/07-useRef/starter)
+   - [H. Custom Hooks](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/08-custom-hooks/starter)
+   - [I. Context API](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/09-context-api)
+   - [J. useReducer Hook](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/10-useReducer/starter)
+   - [K. Performance](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/11-performance/starter)
+* [4. Fundamental Projects](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects)
+   - [A. Birthday Buddy Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy)
+   - [B. Tours Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours)
+   - [C. Reviews Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews)
+   - [D. Accordion Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion)
+   - [E. Menu Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu)
+   - [F. Tabs Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs)
+   - [G. Slider Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider)
+   - [H. Lorem Ipsum Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum)
+   - [I. Color Generator Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/09-color-generator)
+   - [J. Grocery Bud Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud)
+   - [K. Navbar Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar)
+   - [L. Sidebar Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar)
+   - [M. Strapi Submenus Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus)
+   - [N. Cart Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart)
+* [5. Axios Tutorial](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/05-axios-tutorial/axios)
+* [6. React Query](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/06-react-query)
+* [7. Unsplash Images Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/07-unsplash-images/stock-images)
+* [8. Contentful CMS Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/08-contentful-cms/contentful)
+* [9. MixMaster Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/09-mixmaster/mixmaster)
+* [10. Tailwind Portfolio](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/10-tailwind-portfolio/portfolio)
+* [11. Redux Toolkit](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/11-redux-toolkit-tutorial)
+* [12. Comfy Store Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/12-comfy-store/comfy-store)
+
+</details>
+
 ## Section Overviews
 
 <details open>
