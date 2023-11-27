@@ -22,6 +22,35 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
+<details>
+<summary>(Show/Hide) - Overview of Tools & Tech 💻</summary>
+
+<div align="left">
+
+## Overview of Technologies
+
+### [React](https://react.dev/)
+React is a free and open-source front-end JavaScript library for building user interfaces based on components.
+
+### [Axios](https://axios-http.com/)
+Axios is a JavaScript library used to make HTTP requests from node. js or XMLHttpRequests from the browser.
+
+### [React Router](https://reactrouter.com/)
+React Router is a JavaScript framework that handles client and server-side routing in React applications, enabling the creation of single-page web or mobile apps that allow navigating without refreshing the page.
+
+### [React Query](https://tanstack.com/)
+React Query is a data-fetching and state management library for React applications that simplifies fetching, caching, and updating data.
+
+### [Redux](https://redux.js.org/)
+Redux is an open-source JavaScript library for managing and centralizing application state.
+
+### [Redux Toolkit](https://redux-toolkit.js.org/)
+Redux Toolkit is our official, opinionated, batteries-included toolset for efficient Redux development.
+
+</div>
+
+</details>
+
 ## Main Sections & Projects
 
 <img src="https://custom-icon-badges.demolab.com/badge/Sections-f8f8f2.svg?logo=bookmark&logoColor=000000" alt="Sections" width="112px" />
@@ -68,34 +97,6 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 <img src="https://custom-icon-badges.demolab.com/badge/Redux%20Toolkit-ffb2cb.svg?logo=bookmark&logoColor=000000" alt="Redux Toolkit" />
 <img src="https://custom-icon-badges.demolab.com/badge/Comfy%20Store%20Project-ffb2be.svg?logo=star-fill&logoColor=000000" alt="Comfy Store Project" /><br/><br/>
 
-<details>
-<summary>(Show/Hide) - Overview of Tools & Tech 💻</summary>
-
-<div align="left">
-
-## Overview of Technologies
-
-### [React](https://react.dev/)
-React is a free and open-source front-end JavaScript library for building user interfaces based on components.
-
-### [Axios](https://axios-http.com/)
-Axios is a JavaScript library used to make HTTP requests from node. js or XMLHttpRequests from the browser.
-
-### [React Router](https://reactrouter.com/)
-React Router is a JavaScript framework that handles client and server-side routing in React applications, enabling the creation of single-page web or mobile apps that allow navigating without refreshing the page.
-
-### [React Query](https://tanstack.com/)
-React Query is a data-fetching and state management library for React applications that simplifies fetching, caching, and updating data.
-
-### [Redux](https://redux.js.org/)
-Redux is an open-source JavaScript library for managing and centralizing application state.
-
-### [Redux Toolkit](https://redux-toolkit.js.org/)
-Redux Toolkit is our official, opinionated, batteries-included toolset for efficient Redux development.
-
-</div>
-
-</details>
 </div>
 
 ## Table of Contents
