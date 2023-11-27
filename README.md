@@ -28,7 +28,7 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 <img src="https://custom-icon-badges.demolab.com/badge/Projects-f8f8f2.svg?logo=star-fill&logoColor=000000" alt="Projects" width="112px" /><br/><br/>
 
 <img src="https://custom-icon-badges.demolab.com/badge/Fundamentals-ffb2b2.svg?logo=bookmark&logoColor=000000" alt="Fundamentals" />
-<img src="https://custom-icon-badges.demolab.com/badge/Backroads%20Project-ffbeb2.svg?logo=star-fill&logoColor=000000" alt="Backroads Project" />
+<img src="https://custom-icon-badges.demolab.com/badge/Backroads%20Project-ffbeb2.svg?logo=star-fill&logoColor=000000" alt="BackRoads Project" />
 
 <img src="https://custom-icon-badges.demolab.com/badge/Advanced%20React-ffcbb2.svg?logo=bookmark&logoColor=000000" alt="Advanced React" />
 <img src="https://custom-icon-badges.demolab.com/badge/useState%20Hook-ffd7b2.svg?logo=bookmark&logoColor=000000" alt="useState Hook" />
@@ -36,7 +36,7 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 <img src="https://custom-icon-badges.demolab.com/badge/Conditional%20Rendering-fff0b2.svg?logo=bookmark&logoColor=000000" alt="Conditional Rendering" />
 <img src="https://custom-icon-badges.demolab.com/badge/Project%20Structure-fffcb2.svg?logo=bookmark&logoColor=000000" alt="Project Structure" />
 <img src="https://custom-icon-badges.demolab.com/badge/Leverage%20JavaScript-f4ffb2.svg?logo=bookmark&logoColor=000000" alt="Leverage JavaScript" />
-<img src="https://custom-icon-badges.demolab.com/badge/Forms-e8ffb2.svg?logo=bookmark&logoColor=000000" alt="Forms" />
+<img src="https://custom-icon-badges.demolab.com/badge/React%20Forms-e8ffb2.svg?logo=bookmark&logoColor=000000" alt="React Forms" />
 <img src="https://custom-icon-badges.demolab.com/badge/useRef%20Hook-dbffb2.svg?logo=bookmark&logoColor=000000" alt="useRef Hook" />
 <img src="https://custom-icon-badges.demolab.com/badge/Custom%20Hooks-cfffb2.svg?logo=bookmark&logoColor=000000" alt="Custom Hooks" />
 <img src="https://custom-icon-badges.demolab.com/badge/Context%20API-c3ffb2.svg?logo=bookmark&logoColor=000000" alt="Context API" />
@@ -104,14 +104,14 @@ Redux Toolkit is our official, opinionated, batteries-included toolset for effic
 
 * [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals)
    - [A. Book List](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
-* [2. Backroads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project)
+* [2. BackRoads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project)
 * [3. Advanced React](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react)
    - [A. useState Hook](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/01-useState/starter)
    - [B. useEffect Hook](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/02-useEffect/starter)
    - [C. Conditional Rendering](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/03-conditional-rendering/starter)
    - [D. Project Structure](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/04-project-structure)
    - [E. Leveraging JavaScript](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/05-leverage-javascript/starter)
-   - [F. Forms](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/06-forms/starter)
+   - [F. React Forms](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/06-forms/starter)
    - [G. useRef Hook](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/07-useRef/starter)
    - [H. Custom Hooks](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/08-custom-hooks/starter)
    - [I. Context API](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/09-context-api)
@@ -149,6 +149,8 @@ Redux Toolkit is our official, opinionated, batteries-included toolset for effic
 <summary>(Hide/Show) - Section Overviews 📑</summary>
 
 ## [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Fundamentals-ffb2b2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Fundamentals" />
 
 ![Best Selling Books - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/01-fundamentals/01-fundamentals-site.png)
 
@@ -204,6 +206,8 @@ In this section of my React learning journey, I have meticulously explored the f
 - `src/index.css`: Central CSS file for styling.
 
 ## [2. BackRoads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
+
+<img src="https://custom-icon-badges.demolab.com/badge/BackRoads%20Project-ffbeb2.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="BackRoads Project" />
 
 ![BackRoads - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/02-backroads-project/02-backroads-site.png)
 
@@ -283,6 +287,8 @@ This section of my React learning journey focuses on developing the "BackRoads A
 
 ## [3. Advanced React Concepts](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Advanced%20React-ffcbb2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Advanced React" />
+
 This section of the project is a deep dive into the more advanced aspects of React. It encompasses a wide range of topics from React hooks, conditional rendering, context API, custom hooks, to performance optimization and much more.
 
 ### Project Structure and Topics
@@ -290,6 +296,8 @@ This section of the project is a deep dive into the more advanced aspects of Rea
 This section of the project is methodically structured into directories, each centered around a pivotal React concept:
 
 #### [A. useState](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/01-useState/starter)
+
+<img src="https://custom-icon-badges.demolab.com/badge/useState%20Hook-ffd7b2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="useState Hook" />
 
 Explored the basics of useState for handling variables, arrays, objects, and grasped the nuances and common pitfalls.
 
@@ -312,6 +320,8 @@ Overall, these exercises deepened my understanding of `useState`, emphasizing it
 
 #### [B. useEffect](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/02-useEffect/starter)
 
+<img src="https://custom-icon-badges.demolab.com/badge/useEffect%20Hook-ffe4b2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="useEffect Hook" />
+
 Learned about useEffect for managing side effects, data fetching, and the critical role of cleanup functions.
 
 ##### `01-code-example.jsx`
@@ -332,6 +342,8 @@ Finally, `CleanupFunction` focused on the cleanup aspect of `useEffect`. It demo
 These exercises provided a comprehensive overview of `useEffect`, from basic usage to complex scenarios involving data fetching and cleanup. Each example built upon the previous, enhancing my understanding of managing side effects in functional components using the `useEffect` hook.
 
 #### [C. Conditional Rendering](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/03-conditional-rendering/starter)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Conditional%20Rendering-fff0b2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Conditional Rendering" />
 
 Dived into rendering components conditionally using multiple return statements, short-circuit evaluation, and ternary operators.
 
@@ -360,6 +372,8 @@ Throughout these exercises, I gained a comprehensive understanding of conditiona
 
 #### [D. Project Structure](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/04-project-structure)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Project%20Structure-fffcb2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Project Structure" />
+
 Practiced organizing components, CSS, and JavaScript files for scalability and maintainability, focusing on efficient use of index files.
 
 ##### `Example` Folder
@@ -387,6 +401,8 @@ Overall, this section of the tutorial provided practical insights into organizin
 
 #### [E. Leveraging JavaScript in React](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/05-leverage-javascript/starter)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Leverage%20JavaScript-f4ffb2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Leverage JavaScript" />
+
 Embraced JavaScript features like mapping over arrays and object destructuring within React components.
 
 ##### `List.jsx` - Mapping Through an Array
@@ -397,7 +413,9 @@ In `List.jsx`, I utilized the JavaScript `map` function to iterate over an array
 
 Overall, these exercises emphasized the importance of JavaScript proficiency in React development. They illustrated how fundamental JavaScript concepts and newer features can be effectively applied in React to create dynamic, flexible, and resilient user interfaces.
 
-#### [F. Forms](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/06-forms/starter)
+#### [F. React Forms](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/06-forms/starter)
+
+<img src="https://custom-icon-badges.demolab.com/badge/React%20Forms-e8ffb2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="React Forms" />
 
 Handled form inputs and managed form state using the State hook, exploring controlled components in depth.
 
@@ -420,6 +438,8 @@ Through these exercises, I gained a comprehensive understanding of handling form
 
 #### [G. useRef](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/07-useRef/starter)
 
+<img src="https://custom-icon-badges.demolab.com/badge/useRef%20Hook-dbffb2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="useRef Hook" />
+
 Explored useRef for accessing DOM elements and retaining values across renders without causing re-renders.
 
 ##### `01-useRef-basics.jsx`
@@ -432,6 +452,8 @@ In `UseRefBasics`, I delved into the `useRef` hook, a powerful feature in React 
 The `handleSubmit` function showcases a practical use of `useRef` by accessing the value of the input field directly, a common pattern in form handling. This exercise was instrumental in understanding the versatility of `useRef`, from manipulating the DOM to preserving data across component updates, making it a unique tool in the React hook arsenal.
 
 #### [H. Custom Hooks](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/08-custom-hooks/starter)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Custom%20Hooks-cfffb2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Custom Hooks" />
 
 Created custom hooks for data fetching and state toggling, abstracting logic for reuse across components.
 
@@ -453,6 +475,8 @@ The `useToggle` hook encapsulates the logic for toggling a boolean state. It's a
 Through these exercises, I explored the concept and power of custom hooks in React. Custom hooks enable the extraction and reuse of complex logic, making components cleaner and more concise. They are a powerful tool for building maintainable and scalable React applications, as they allow for the sharing of functionality across different components without duplicating code.
 
 #### [I. Context API](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/09-context-api)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Context%20API-c3ffb2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Context API" />
 
 Investigated React's Context API for efficient data passage through component trees, eliminating the need for prop drilling.
 
@@ -488,6 +512,8 @@ Through these exercises, I gained a comprehensive understanding of different sta
 
 #### [J. useReducer](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/10-useReducer/starter)
 
+<img src="https://custom-icon-badges.demolab.com/badge/useReducer%20Hook-b6ffb2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="useReducer Hook" />
+
 Managed complex state logic with useReducer, particularly beneficial for handling multiple state transitions.
 
 ##### `01-userReducer.jsx`
@@ -508,6 +534,8 @@ The `reducer` function is where the state management logic resides. It takes the
 Overall, `ReducerBasics` is a practical demonstration of using `useReducer` for state management in React. It highlights the benefits of `useReducer` in handling complex state logic, providing a more structured and scalable way to manage state compared to `useState`, especially in larger applications.
 
 #### [K. Performance Optimization](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/11-performance/starter)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Performance-b2ffba.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Performance" />
 
 Covered performance optimization techniques like memoization, React.memo, useCallback, and useMemo to enhance user experience and reduce unnecessary re-renders.
 
@@ -649,7 +677,7 @@ Linked theoretical knowledge with practical applications in the following projec
 
 - [7. Slider](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider/slider)
 
-#### Forms
+#### React Forms
 
 - [8. Lorem Ipsum Generator](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum/lorem-ipsum)
 
@@ -673,7 +701,11 @@ Linked theoretical knowledge with practical applications in the following projec
 
 ## [4. Fundamental Projects](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Fundamental%20Projects-b2ffc7.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Fundamental Projects" />
+
 ### [A. Birthday Buddy](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy/birthday-buddy)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Birthday%20Buddy%20Project-b2ffd3.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Birthday Buddy Project" />
 
 ![Birthday Buddy - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-site.png)
 
@@ -715,6 +747,8 @@ The Birthday Buddy Project is a simple, interactive web application designed to 
 - **Styling in React**: Enhanced understanding of applying CSS in React applications for a structured and attractive user interface.
 
 ### [B. Tours](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours/tours)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Tours%20Project-b2ffdf.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Tours Project" />
 
 ![Tours - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-site.png)
 
@@ -766,6 +800,8 @@ Custom CSS is employed to provide a responsive and visually appealing layout. Th
 
 ### [C. Reviews](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews/reviews)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Reviews%20Project-b2ffec.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Reviews Project" />
+
 ![Reviews - Site Image 1](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/03-reviews/03-reviews-site-1.png)
 
 ![Reviews - Site Image 2](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/03-reviews/03-reviews-site-2.png)
@@ -808,6 +844,8 @@ The application is styled using custom CSS to provide a user-friendly and engagi
 - **Integrating External Libraries**: Learned how to integrate and utilize external libraries like `react-icons` in a React project.
 
 ### [D. Accordion](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion/accordion)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Accordion%20Project-b2fff8.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Accordion Project" />
 
 The Accordion Project is a dynamic web application built using React, designed to display a list of frequently asked questions (FAQs) in an accordion-style format. This project emphasizes the use of state management, conditional rendering, and component-based architecture in React.
 
@@ -856,6 +894,8 @@ Custom CSS is applied to provide a clean and intuitive user interface. The accor
 
 ### [E. Menu](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu/menu)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Menu%20Project-b2f8ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Menu Project" />
+
 The Menu Project is an interactive and responsive web application developed using React. It is designed to display a restaurant menu with various categories and items, offering dynamic filtering capabilities. This project demonstrates essential React concepts, including component creation, state management, and event handling.
 
 ![Menu - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-site.png)
@@ -901,6 +941,8 @@ The Menu Project is an interactive and responsive web application developed usin
 
 ### [F. Tabs](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs/tabs)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Tabs%20Project-b2ecff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Tabs Project" />
+
 The Tabs Project is a React-based web application designed to display job information in a tabbed interface. It demonstrates fetching data from an external API, managing application state, and dynamically rendering components based on user interaction. This project is a great example of handling asynchronous data, component-based architecture, and state management in React.
 
 #### Features
@@ -933,6 +975,8 @@ The Tabs Project is a React-based web application designed to display job inform
 
 ### [G. Slider](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider/slider)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Slider%20Project-b2dfff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Slider Project" />
+
 The Slider Project is a dynamic and interactive web application built using React. It showcases a carousel-style slider that displays information from an array of data. The project demonstrates advanced React concepts, including conditional rendering, state management, and handling user interactions. 
 
 #### Features
@@ -964,6 +1008,8 @@ The Slider Project is a dynamic and interactive web application built using Reac
 
 ### [H. Lorem Ipsum](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum/lorem-ipsum)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Lorem%20Ipsum%20Project-b2d3ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Lorem Ipsum Project" />
+
 The Lorem Ipsum Project is a React-based web application that generates placeholder text. It allows users to specify the number of paragraphs of lorem ipsum text they need. The project is an excellent demonstration of React concepts like state management, forms handling, and dynamic content rendering.
 
 #### Features
@@ -991,6 +1037,8 @@ The Lorem Ipsum Project is a React-based web application that generates placehol
 - **Form Validation and Handling**: Implements basic form validation and efficient handling of user input.
 
 ### [I. Color Generator](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/09-color-generator/color-generator)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Color%20Generator%20Project-b2c7ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Color Generator Project" />
 
 The Color Generator Project is a React application designed to generate different shades and tints of a specified color. It utilizes various React concepts such as state management, component composition, and external library integration.
 
@@ -1035,6 +1083,8 @@ The Color Generator Project is a React application designed to generate differen
 - **Responsive Web Design**: Utilizes CSS Grid for a responsive layout.
 
 ### [J. Grocery Bud](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud/grocery-bud)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Grocery%20Bud%20Project-b2baff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Grocery Bud Project" />
 
 The Grocery Bud Project is a React application designed for managing a grocery list. It showcases fundamental React concepts including state management, component composition, form handling, local storage integration, and the use of external libraries.
 
@@ -1085,6 +1135,8 @@ The Grocery Bud Project is a React application designed for managing a grocery l
 - **CSS for Styling and Layout**: Uses CSS for styling components and creating a responsive layout.
 
 ### [K. Navbar](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar/navbar)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Navbar%20Project-b6b2ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Navbar Project" />
 
 The Navbar Project is focused on creating a responsive navigation bar in React. It demonstrates key React concepts such as component creation, state management, and the use of external libraries. The project involves building a dynamic navbar that adapts to different screen sizes and user interactions.
 
@@ -1137,6 +1189,8 @@ The Navbar Project is focused on creating a responsive navigation bar in React. 
 
 ### [L. Sidebar](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar/sidebar)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Sidebar%20Project-c3b2ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Sidebar Project" />
+
 The Sidebar Project in React demonstrates the creation of a dynamic sidebar and modal components, with a focus on React's context API for state management and global context sharing.
 
 #### Key Features
@@ -1177,6 +1231,8 @@ The Sidebar Project in React demonstrates the creation of a dynamic sidebar and 
 - **Third-Party Libraries**: Integration of `react-icons` for enhanced UI design.
 
 ### [M. Strapi Submenus](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus/strapi-submenus)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Strapi%20Submenus%20Project-cfb2ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Strapi Submenus Project" />
 
 The Strapi Submenus project is a React-based application showcasing the use of global context, conditional rendering, and responsive design to create a dynamic and user-friendly interface with a focus on navigation elements like a sidebar, hero, navbar, and submenu.
 
@@ -1223,6 +1279,8 @@ The Strapi Submenus project is a React-based application showcasing the use of g
 
 ### [N. Cart](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart/cart)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Cart%20Project-dbb2ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Cart Project" />
+
 The Cart Project is a complex React application that demonstrates the use of modern React features such as Context, useReducer, and Hooks to manage a shopping cart's state and interactions. It utilizes a more complicated data structure (`Map`) for efficient state management and implements various functionalities like item addition, removal, quantity adjustment, and total calculation.
 
 #### Key Features
@@ -1264,6 +1322,8 @@ The Cart Project is a complex React application that demonstrates the use of mod
 - **Dynamic UI Interactions**: Updating the UI based on user interactions and state changes.
 
 ## [5. Axios](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/05-axios-tutorial/axios)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Axios%20Tutorial-e8b2ff.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Axios Tutorial" />
 
 This section of the React sandbox focuses on demonstrating various features and capabilities of Axios, a popular promise-based HTTP client for making HTTP requests in JavaScript applications. The tutorial covers basic to advanced Axios functionalities within a React application context.
 
@@ -1322,6 +1382,8 @@ This section of the React sandbox focuses on demonstrating various features and 
 - Explore integration with state management libraries like Redux for better state handling of HTTP responses.
 
 ## [6. React Query](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/06-react-query)
+
+<img src="https://custom-icon-badges.demolab.com/badge/React%20Query-f4b2ff.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="React Query" />
 
 The React Query section of the project demonstrates the use of React Query, a powerful library for fetching, caching, and updating data in React applications. This section covers setting up React Query, utilizing its various features, and integrating it with a custom Axios instance for HTTP requests.
 
@@ -1385,6 +1447,8 @@ The React Query section of the project demonstrates the use of React Query, a po
 - Explore integration with TypeScript for type safety.
 
 ## [7. Fetch Stock Images](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/07-unsplash-images/stock-images)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Unsplash%20Images%20Project-ffb2fc.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Unsplash Images Project" />
 
 The Fetch Stock Images is a React-based web application that leverages the Unsplash API to display a collection of high-quality stock photos. The project demonstrates key React concepts including context API for state management, React Query for data fetching, and implementing a dark theme toggle feature.
 
@@ -1464,6 +1528,8 @@ The Fetch Stock Images is a React-based web application that leverages the Unspl
 
 ## [8. Contentful CMS](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/08-contentful-cms/contentful)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Contentful%20CMS%20Project-ffb2f0.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Contentful CMS Project" />
+
 The Contentful CMS Project is a React-based web application that integrates with Contentful, a headless Content Management System (CMS). This project demonstrates how to fetch and display content dynamically from Contentful, allowing for easy content updates and management.
 
 ### Objectives
@@ -1518,6 +1584,8 @@ The Contentful CMS Project is a React-based web application that integrates with
 - Improve accessibility and SEO optimization.
 
 ## [9. MixMaster](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/09-mixmaster/mixmaster)
+
+<img src="https://custom-icon-badges.demolab.com/badge/MixMaster%20Project-ffb2e4.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="MixMaster Project" />
 
 The MixMaster Project is a single-page application (SPA) developed with React. This web application utilizes React Router for seamless navigation and styled-components for CSS in JS. The project's main focus is to demonstrate advanced routing techniques, styled components, and integrating external APIs for fetching data.
 
@@ -1582,6 +1650,8 @@ The MixMaster Project is a single-page application (SPA) developed with React. T
 
 ## [10. Tailwind Portfolio](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/10-tailwind-portfolio/portfolio)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20Portfolio-ffb2d7.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Tailwind Portfolio" />
+
 The Tailwind Portfolio project is a React application showcasing a personal web development portfolio. The project emphasizes the use of Tailwind CSS for styling, creating a responsive and visually appealing user interface.
 
 ### Objectives
@@ -1637,6 +1707,8 @@ The Tailwind Portfolio project is a React application showcasing a personal web 
 
 ## [11. Redux Toolkit](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/11-redux-toolkit-tutorial)
 
+<img src="https://custom-icon-badges.demolab.com/badge/Redux%20Toolkit-ffb2cb.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Redux Toolkit" />
+
 This tutorial provides a comprehensive guide to building a shopping cart application using Redux Toolkit and React. It covers everything from setting up the project with Create React App to implementing advanced features like asynchronous actions and modal management.
 
 ### Objectives
@@ -1689,6 +1761,8 @@ This tutorial provides a comprehensive guide to building a shopping cart applica
 - Integrating more complex state management scenarios.
 
 ## [12. Comfy Store](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/12-comfy-store/comfy-store)
+
+<img src="https://custom-icon-badges.demolab.com/badge/Comfy%20Store%20Project-ffb2be.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Comfy Store Project" />
 
 The Comfy Store Project is a comprehensive React-based e-commerce application. It leverages modern web technologies such as Redux Toolkit, React Router, React Query, and Tailwind CSS with daisyUI for styling. The application features user authentication, product browsing, cart management, order processing, and more.
 
