@@ -65,20 +65,20 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 [![useReducer Hook](https://custom-icon-badges.demolab.com/badge/useReducer%20Hook-b6ffb2.svg?logo=bookmark&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/10-useReducer/starter)
 [![Performance](https://custom-icon-badges.demolab.com/badge/Performance-b2ffba.svg?logo=bookmark&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/11-performance/starter)
 [![Fundamental Projects](https://custom-icon-badges.demolab.com/badge/Fundamental%20Projects-b2ffc7.svg?logo=bookmark&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects)
-[![Birthday Buddy Project](https://custom-icon-badges.demolab.com/badge/Birthday%20Buddy%20Project-b2ffd3.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy)
-[![Tours Project](https://custom-icon-badges.demolab.com/badge/Tours%20Project-b2ffdf.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours)
-[![Reviews Project](https://custom-icon-badges.demolab.com/badge/Reviews%20Project-b2ffec.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews)
-[![Accordion Project](https://custom-icon-badges.demolab.com/badge/Accordion%20Project-b2fff8.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion)
-[![Menu Project](https://custom-icon-badges.demolab.com/badge/Menu%20Project-b2f8ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu)
-[![Tabs Project](https://custom-icon-badges.demolab.com/badge/Tabs%20Project-b2ecff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs)
-[![Slider Project](https://custom-icon-badges.demolab.com/badge/Slider%20Project-b2dfff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider)
-[![Lorem Ipsum Project](https://custom-icon-badges.demolab.com/badge/Lorem%20Ipsum%20Project-b2d3ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum)
-[![Color Generator Project](https://custom-icon-badges.demolab.com/badge/Color%20Generator%20Project-b2c7ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/09-color-generator)
-[![Grocery Bud Project](https://custom-icon-badges.demolab.com/badge/Grocery%20Bud%20Project-b2baff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud)
-[![Navbar Project](https://custom-icon-badges.demolab.com/badge/Navbar%20Project-b6b2ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar)
-[![Sidebar Project](https://custom-icon-badges.demolab.com/badge/Sidebar%20Project-c3b2ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar)
-[![Strapi Submenus Project](https://custom-icon-badges.demolab.com/badge/Strapi%20Submenus%20Project-cfb2ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus)
-[![Cart Project](https://custom-icon-badges.demolab.com/badge/Cart%20Project-dbb2ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart)
+[![Birthday Buddy Project](https://custom-icon-badges.demolab.com/badge/Birthday%20Buddy%20Project-b2ffd3.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy/birthday-buddy)
+[![Tours Project](https://custom-icon-badges.demolab.com/badge/Tours%20Project-b2ffdf.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours/tours)
+[![Reviews Project](https://custom-icon-badges.demolab.com/badge/Reviews%20Project-b2ffec.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews/reviews)
+[![Accordion Project](https://custom-icon-badges.demolab.com/badge/Accordion%20Project-b2fff8.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion/accordion)
+[![Menu Project](https://custom-icon-badges.demolab.com/badge/Menu%20Project-b2f8ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu/menu)
+[![Tabs Project](https://custom-icon-badges.demolab.com/badge/Tabs%20Project-b2ecff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs/tabs)
+[![Slider Project](https://custom-icon-badges.demolab.com/badge/Slider%20Project-b2dfff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider/slider)
+[![Lorem Ipsum Project](https://custom-icon-badges.demolab.com/badge/Lorem%20Ipsum%20Project-b2d3ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum/lorem-ipsum)
+[![Color Generator Project](https://custom-icon-badges.demolab.com/badge/Color%20Generator%20Project-b2c7ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/09-color-generator/color-generator)
+[![Grocery Bud Project](https://custom-icon-badges.demolab.com/badge/Grocery%20Bud%20Project-b2baff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud/grocery-bud)
+[![Navbar Project](https://custom-icon-badges.demolab.com/badge/Navbar%20Project-b6b2ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar/navbar)
+[![Sidebar Project](https://custom-icon-badges.demolab.com/badge/Sidebar%20Project-c3b2ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar/sidebar)
+[![Strapi Submenus Project](https://custom-icon-badges.demolab.com/badge/Strapi%20Submenus%20Project-cfb2ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus/strapi-submenus)
+[![Cart Project](https://custom-icon-badges.demolab.com/badge/Cart%20Project-dbb2ff.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart/cart)
 [![Axios Tutorial](https://custom-icon-badges.demolab.com/badge/Axios%20Tutorial-e8b2ff.svg?logo=bookmark&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/05-axios-tutorial/axios)
 [![React Query](https://custom-icon-badges.demolab.com/badge/React%20Query-f4b2ff.svg?logo=bookmark&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/06-react-query)
 [![Unsplash Images Project](https://custom-icon-badges.demolab.com/badge/Unsplash%20Images%20Project-ffb2fc.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/07-unsplash-images/stock-images)
@@ -110,20 +110,20 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
    - [J. useReducer Hook](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/10-useReducer/starter)
    - [K. Performance](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/11-performance/starter)
 * [4. Fundamental Projects](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects)
-   - [A. Birthday Buddy Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy)
-   - [B. Tours Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours)
-   - [C. Reviews Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews)
-   - [D. Accordion Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion)
-   - [E. Menu Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu)
-   - [F. Tabs Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs)
-   - [G. Slider Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider)
-   - [H. Lorem Ipsum Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum)
-   - [I. Color Generator Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/09-color-generator)
-   - [J. Grocery Bud Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud)
-   - [K. Navbar Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar)
-   - [L. Sidebar Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar)
-   - [M. Strapi Submenus Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus)
-   - [N. Cart Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart)
+   - [A. Birthday Buddy Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy/birthday-buddy)
+   - [B. Tours Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours/tours)
+   - [C. Reviews Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews/reviews)
+   - [D. Accordion Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion/accordion)
+   - [E. Menu Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu/menu)
+   - [F. Tabs Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs/tabs)
+   - [G. Slider Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider/slider)
+   - [H. Lorem Ipsum Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum/lorem-ipsum)
+   - [I. Color Generator Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/09-color-generator/color-generator)
+   - [J. Grocery Bud Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud/grocery-bud)
+   - [K. Navbar Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar/navbar)
+   - [L. Sidebar Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar/sidebar)
+   - [M. Strapi Submenus Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus/strapi-submenus)
+   - [N. Cart Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart/cart)
 * [5. Axios Tutorial](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/05-axios-tutorial/axios)
 * [6. React Query](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/06-react-query)
 * [7. Unsplash Images Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/07-unsplash-images/stock-images)
@@ -200,61 +200,61 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 
 <a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects"><img src="https://custom-icon-badges.demolab.com/badge/Fundamental%20Projects-b2ffc7.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Fundamental Projects" /></a>
 
-#### [A. Birthday Buddy Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy)
+#### [A. Birthday Buddy Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy/birthday-buddy)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy"><img src="https://custom-icon-badges.demolab.com/badge/Birthday%20Buddy%20Project-b2ffd3.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Birthday Buddy Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy/birthday-buddy"><img src="https://custom-icon-badges.demolab.com/badge/Birthday%20Buddy%20Project-b2ffd3.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Birthday Buddy Project" /></a>
 
-#### [B. Tours Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours)
+#### [B. Tours Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours/tours)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours"><img src="https://custom-icon-badges.demolab.com/badge/Tours%20Project-b2ffdf.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Tours Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours/tours"><img src="https://custom-icon-badges.demolab.com/badge/Tours%20Project-b2ffdf.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Tours Project" /></a>
 
-#### [C. Reviews Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews)
+#### [C. Reviews Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews/reviews)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews"><img src="https://custom-icon-badges.demolab.com/badge/Reviews%20Project-b2ffec.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Reviews Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews/reviews"><img src="https://custom-icon-badges.demolab.com/badge/Reviews%20Project-b2ffec.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Reviews Project" /></a>
 
-#### [D. Accordion Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion)
+#### [D. Accordion Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion/accordion)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion"><img src="https://custom-icon-badges.demolab.com/badge/Accordion%20Project-b2fff8.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Accordion Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion/accordion"><img src="https://custom-icon-badges.demolab.com/badge/Accordion%20Project-b2fff8.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Accordion Project" /></a>
 
-#### [E. Menu Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu)
+#### [E. Menu Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu/menu)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu"><img src="https://custom-icon-badges.demolab.com/badge/Menu%20Project-b2f8ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Menu Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu/menu"><img src="https://custom-icon-badges.demolab.com/badge/Menu%20Project-b2f8ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Menu Project" /></a>
 
-#### [F. Tabs Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs)
+#### [F. Tabs Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs/tabs)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs"><img src="https://custom-icon-badges.demolab.com/badge/Tabs%20Project-b2ecff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Tabs Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs/tabs"><img src="https://custom-icon-badges.demolab.com/badge/Tabs%20Project-b2ecff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Tabs Project" /></a>
 
-#### [G. Slider Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider)
+#### [G. Slider Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider/slider)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider"><img src="https://custom-icon-badges.demolab.com/badge/Slider%20Project-b2dfff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Slider Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider/slider"><img src="https://custom-icon-badges.demolab.com/badge/Slider%20Project-b2dfff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Slider Project" /></a>
 
-#### [H. Lorem Ipsum Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum)
+#### [H. Lorem Ipsum Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum/lorem-ipsum)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum"><img src="https://custom-icon-badges.demolab.com/badge/Lorem%20Ipsum%20Project-b2d3ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Lorem Ipsum Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum/lorem-ipsum"><img src="https://custom-icon-badges.demolab.com/badge/Lorem%20Ipsum%20Project-b2d3ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Lorem Ipsum Project" /></a>
 
-#### [I. Color Generator Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/09-color-generator)
+#### [I. Color Generator Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/09-color-generator/color-generator)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/09-color-generator"><img src="https://custom-icon-badges.demolab.com/badge/Color%20Generator%20Project-b2c7ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Color Generator Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/09-color-generator/color-generator"><img src="https://custom-icon-badges.demolab.com/badge/Color%20Generator%20Project-b2c7ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Color Generator Project" /></a>
 
-#### [J. Grocery Bud Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud)
+#### [J. Grocery Bud Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud/grocery-bud)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud"><img src="https://custom-icon-badges.demolab.com/badge/Grocery%20Bud%20Project-b2baff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Grocery Bud Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud/grocery-bud"><img src="https://custom-icon-badges.demolab.com/badge/Grocery%20Bud%20Project-b2baff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Grocery Bud Project" /></a>
 
-#### [K. Navbar Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar)
+#### [K. Navbar Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar/navbar)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar"><img src="https://custom-icon-badges.demolab.com/badge/Navbar%20Project-b6b2ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Navbar Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar/navbar"><img src="https://custom-icon-badges.demolab.com/badge/Navbar%20Project-b6b2ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Navbar Project" /></a>
 
-#### [L. Sidebar Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar)
+#### [L. Sidebar Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar/sidebar)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar"><img src="https://custom-icon-badges.demolab.com/badge/Sidebar%20Project-c3b2ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Sidebar Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar/sidebar"><img src="https://custom-icon-badges.demolab.com/badge/Sidebar%20Project-c3b2ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Sidebar Project" /></a>
 
-#### [M. Strapi Submenus Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus)
+#### [M. Strapi Submenus Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus/strapi-submenus)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus"><img src="https://custom-icon-badges.demolab.com/badge/Strapi%20Submenus%20Project-cfb2ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Strapi Submenus Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus/strapi-submenus"><img src="https://custom-icon-badges.demolab.com/badge/Strapi%20Submenus%20Project-cfb2ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Strapi Submenus Project" /></a>
 
-#### [N. Cart Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart)
+#### [N. Cart Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart/cart)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart"><img src="https://custom-icon-badges.demolab.com/badge/Cart%20Project-dbb2ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Cart Project" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart/cart"><img src="https://custom-icon-badges.demolab.com/badge/Cart%20Project-dbb2ff.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Cart Project" /></a>
 
 ### [5. Axios](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/05-axios-tutorial/axios)
 
