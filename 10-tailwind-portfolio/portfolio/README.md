@@ -1,334 +1,56 @@
-#### Setup Vite and Tailwind
+## [10. Tailwind Portfolio](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/10-tailwind-portfolio/portfolio)
 
-[Tailwind Docs](https://tailwindcss.com/docs/guides/vite)
+<img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20Portfolio-ffb2d7.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Tailwind Portfolio" />
 
-- setup vite project
+The Tailwind Portfolio project is a React application showcasing a personal web development portfolio. The project emphasizes the use of Tailwind CSS for styling, creating a responsive and visually appealing user interface.
 
-```sh
-npm create vite@latest my-project -- --template react
-cd my-project
-```
+### Objectives
+- To develop a single-page portfolio application using React and Vite.
+- To integrate Tailwind CSS for responsive design and modern styling.
+- To implement various UI components like Navbar, Hero section, Skills, and Projects.
 
-- add tailwind
+### Installation and Setup
+- **Create Vite Project**: `npm create vite@latest my-project -- --template react`
+- **Install Dependencies**: `npm install`
+- **Add Tailwind CSS**: `npm install -D tailwindcss postcss autoprefixer`
+- **Start Development Server**: `npm run dev`
 
-```sh
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-```
+### Key Features
 
-- rename to tailwind.config.cjs
-- add following content
+#### 1. Tailwind CSS Integration
+- **Styling**: Utilizes Tailwind CSS for all components, ensuring a responsive and modern design.
+- **Custom Directives**: Implements Tailwind directives in the `index.css` for base, components, and utilities layers.
 
-```js
-/** @type {import('tailwindcss').Config} */
-export default {
-  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-};
-```
+#### 2. React Components
+- **Navbar**: A navigation bar with links to different sections of the portfolio.
+- **Hero**: A welcome section with a large heading and social media icons.
+- **Skills**: Showcases various skills with icons and descriptions.
+- **Projects**: Displays a list of projects with images and links to GitHub repositories.
 
-- remove App.css
-- delete contents of index.css
-- delete contents of App.jsx
-- change title
+#### 3. Responsive Design
+- Ensures that the portfolio looks great on all devices, from mobile phones to desktop screens.
 
-```js
-const App = () => {
-  return <div>App</div>;
-};
-export default App;
-```
+#### 4. Assets and Icons
+- Incorporates SVG images and icons for a visually rich user experience.
+- Uses `react-icons` library for social media and other icons.
 
-- Add the Tailwind directives to your CSS
+#### 5. Page Components
+- Implements different page components for About, Skills, and Projects sections.
+- Each section has a unique layout and design, tailored to display content effectively.
 
-index.css
+### Technologies Used
+- React.js for frontend development.
+- Vite for fast build and development.
+- Tailwind CSS for styling.
+- Nanoid for generating unique keys.
+- React Icons for scalable vector icons.
 
-```css
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-```
+### Challenges and Learnings
+- Mastering Tailwind CSS for responsive and efficient styling.
+- Implementing a consistent design and layout using Tailwind's utility classes.
+- Organizing React components and managing assets for a clean project structure.
 
-Tailwind directives are instructions that decide how Tailwind CSS creates the styles for your website. They control the global styles, component styles, and utility classes.
-
-- start the project "npm run dev"
-- setup first tailwind classes in App.jsx
-
-App.jsx
-
-```js
-const App = () => {
-  return <h1 className='text-7xl font-bold underline'>Tailwind project</h1>;
-};
-export default App;
-```
-
-#### Assets
-
-- get assets from "project-assets"
-- images from Undraw
-  [Undraw Docs](https://undraw.co/)
-
-#### Install More Libraries
-
-```sh
-npm i nanoid react-icons
-```
-
-#### Useful Tailwind Extensions
-
-- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-- [Tailwind Fold](https://marketplace.visualstudio.com/items?itemName=stivo.tailwind-fold)
-
-#### Navbar Component
-
-- explore 'links' array in data.jsx
-- setup components/navbar
-- import links
-- setup return and render in App.jsx
-
-```js
-import { links } from '../data';
-const Navbar = () => {
-  return (
-    <nav className='bg-emerald-100 '>
-      <div className='mx-auto max-w-7xl  px-8 py-4 flex flex-col  sm:flex-row sm:gap-x-16 sm:items-center sm:py-8'>
-        <h2 className='text-3xl font-bold'>
-          Web
-          <span className='text-emerald-600'>Dev</span>
-        </h2>
-        <div className='flex gap-x-3 '>
-          {links.map((link) => {
-            const { id, href, text } = link;
-            return (
-              <a
-                key={id}
-                href={href}
-                className='capitalize text-lg tracking-wide hover:text-emerald-600 duration-300'
-              >
-                {text}
-              </a>
-            );
-          })}
-        </div>
-      </div>
-    </nav>
-  );
-};
-export default Navbar;
-```
-
-#### Hero Component
-
-- setup components/Hero
-- setup return
-- render in App.jsx
-
-```js
-import heroImg from '../assets/hero.svg';
-import { FaGithubSquare, FaLinkedin, FaTwitterSquare } from 'react-icons/fa';
-const Hero = () => {
-  return (
-    <section className='bg-emerald-100 py-24  '>
-      <div className=' mx-auto max-w-7xl  px-8  grid  md:grid-cols-2 items-center gap-8'>
-        <article>
-          <h1 className='text-7xl font-bold tracking-wider'>I'm John</h1>
-          <p className='mt-4 text-3xl text-slate-700 capitalize tracking-wide'>
-            Front-end developer
-          </p>
-          <p className='mt-2 text-lg text-slate-700 capitalize tracking-wide'>
-            turning ideas into interactive reality
-          </p>
-          <div className='flex gap-x-4 mt-4'>
-            <a href='#'>
-              <FaGithubSquare className='h-8 w-8 text-slate-500 hover:text-black duration-300' />
-            </a>
-            <a href='#'>
-              <FaLinkedin className='h-8 w-8 text-slate-500 hover:text-black duration-300' />
-            </a>
-            <a href='#'>
-              <FaTwitterSquare className='h-8 w-8 text-slate-500 hover:text-black duration-300' />
-            </a>
-          </div>
-        </article>
-
-        <article className='hidden md:block '>
-          <img src={heroImg} className='h-80 lg:h-96' />
-        </article>
-      </div>
-    </section>
-  );
-};
-export default Hero;
-```
-
-#### Repeating Styles
-
-index.css
-
-```css
-@layer components {
-  .align-element {
-    @apply mx-auto max-w-7xl px-8;
-  }
-}
-```
-
-- replace in Hero and Navbar
-
-#### Skills
-
-- explore skills array in data.jsx
-- create Skills,SkillsCard and SectionTitle components
-- setup return and render in App.jsx
-
-Skills.jsx
-
-```js
-import SkillsCard from './SkillsCard';
-import { skills } from '../data';
-import SectionTitle from './SectionTitle';
-const Skills = () => {
-  return (
-    <section className='py-20 align-element' id='skills'>
-      <SectionTitle text='tech stack ' />
-
-      <div class=' py-16 grid md:grid-cols-2 lg:grid-cols-3 gap-8'>
-        {skills.map((skill) => {
-          return <SkillsCard key={skill.id} {...skill} />;
-        })}
-      </div>
-    </section>
-  );
-};
-export default Skills;
-```
-
-SectionTitle.jsx
-
-```js
-const SectionTitle = ({ text }) => {
-  return (
-    <div className='border-b border-gray-200 pb-5'>
-      <h2 className='text-3xl font-medium tracking-wider capitalize'>{text}</h2>
-    </div>
-  );
-};
-export default SectionTitle;
-```
-
-SkillsCard.jsx
-
-```js
-const SkillsCard = ({ icon, title, text }) => {
-  return (
-    <article>
-      <span className='h-16 w-16'>{icon}</span>
-      <h4 className='mt-6 font-bold'>{title}</h4>
-      <p className='mt-2 text-slate-500'>{text}</p>
-    </article>
-  );
-};
-export default SkillsCard;
-```
-
-#### Global Styles
-
-index.html
-
-```html
-<html lang="en" class="bg-slate-50 scroll-smooth"></html>
-```
-
-#### About
-
-- create About component and render in App.jsx
-
-```js
-import aboutSvg from '../assets/about.svg';
-import SectionTitle from './SectionTitle';
-const About = () => {
-  return (
-    <section class='bg-white py-20' id='about'>
-      <div class='align-element grid  md:grid-cols-2 items-center gap-16'>
-        <img src={aboutSvg} className='w-full h-64' />
-        <article>
-          <SectionTitle text='code and coffee' />
-          <p className='text-slate-600 mt-8 leading-loose'>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro
-            omnis exercitationem tempora, aliquid deleniti tenetur vero esse
-            praesentium eaque dicta fugiat? Molestiae expedita, nulla neque
-            error porro sint distinctio possimus!
-          </p>
-        </article>
-      </div>
-    </section>
-  );
-};
-export default About;
-```
-
-#### Projects
-
-- explore "projects" array in data.jsx
-- create Projects and ProjectsCard components
-- setup return and render in App.jsx
-
-Projects.jsx
-
-```js
-import ProjectsCard from './ProjectsCard';
-import { projects } from '../data';
-import SectionTitle from './SectionTitle';
-const Projects = () => {
-  return (
-    <section className='py-20 align-element' id='projects'>
-      <SectionTitle text='web creations' />
-      <div className='py-16 grid lg:grid-cols-2 xl:grid-cols-3 gap-8'>
-        {projects.map((project) => {
-          return <ProjectsCard key={project.id} {...project} />;
-        })}
-      </div>
-    </section>
-  );
-};
-export default Projects;
-```
-
-ProjectsCard.jsx
-
-```js
-import { FaGithubSquare, FaLinkedin, FaTwitterSquare } from 'react-icons/fa';
-import { TbWorldWww } from 'react-icons/tb';
-const ProjectsCard = ({ url, img, github, title, text }) => {
-  return (
-    <article className='bg-white rounded-lg shadow-md block hover:shadow-xl duration-300'>
-      <img
-        src={img}
-        alt={title}
-        className='w-full object-cover rounded-t-lg h-64 '
-      />
-      <div className='capitalize p-8'>
-        <h2 className='text-xl tracking-wide font-medium'>{title}</h2>
-        <p className='mt-4 text-slate-700 leading-loose'>{text}</p>
-        <div className='mt-4 flex gap-x-4'>
-          <a href={url}>
-            <TbWorldWww className='h-8 w-8 text-slate-500 hover:text-black duration-300' />
-          </a>
-          <a href={github}>
-            <FaGithubSquare className='h-8 w-8 text-slate-500 hover:text-black duration-300' />
-          </a>
-        </div>
-      </div>
-    </article>
-  );
-};
-export default ProjectsCard;
-```
-
-#### Extra Challenge
-
-- setup projects in CMS
+### Future Enhancements
+- Adding more interactive elements and animations.
+- Integrating a blog section with Markdown support.
+- Implementing a contact form with backend integration.
