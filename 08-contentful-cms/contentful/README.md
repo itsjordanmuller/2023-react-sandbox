@@ -1,80 +1,56 @@
-## Figma URL
+## [8. Contentful CMS](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/08-contentful-cms/contentful)
 
-[Contentful](https://www.figma.com/file/XtVr3JRCGWyZESYxd9EhZK/Contentful?node-id=0%3A1&t=SNnU6FgNUQXktIFb-1)
+<img src="https://custom-icon-badges.demolab.com/badge/Contentful%20CMS%20Project-ffb2f0.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Contentful CMS Project" />
 
-## Steps
+The Contentful CMS Project is a React-based web application that integrates with Contentful, a headless Content Management System (CMS). This project demonstrates how to fetch and display content dynamically from Contentful, allowing for easy content updates and management.
 
-#### Install and Setup
+### Objectives
+- To integrate Contentful CMS for content management in a React application.
+- To display dynamic content, specifically a hero section and a list of projects, managed via Contentful.
+- To learn how to use the Contentful SDK and create custom hooks for fetching data.
 
-- npm install
-- npm run dev
+### Setup and Installation
+- **Install Dependencies**: Run `npm install` to install the necessary packages.
+- **Run Development Server**: Execute `npm run dev` to start the local development server.
 
-#### Structure
+### Key Features
 
-Create Hero and Projects components
+#### 1. Initial Setup and Project Structure
+- **Setup**: Initialized with `npm install` and run with `npm run dev`.
+- **Components**: Created and rendered `Hero` and `Projects` components in the main application (`App.jsx`).
 
-#### Hero
+#### 2. Hero Component
+- **Design**: Developed the Hero component with a heading, a descriptive paragraph, and an SVG image.
+- **Styling**: Utilized CSS for layout and design enhancements.
 
-Setup Hero component.
+#### 3. Integration with Contentful
+- **Contentful SDK**: Implemented Contentful's SDK to fetch data from the CMS.
+- **Headless CMS**: Leveraged the headless CMS approach for flexible content management.
 
-#### Nice Images
+#### 4. Fetching and Displaying Projects
+- **Custom Hook (`useFetchProjects`)**: Developed a custom hook to fetch project data from Contentful.
+- **Dynamic Rendering**: Displayed projects dynamically in the `Projects` component using fetched data.
+- **Content Structure**: Managed and structured content types and entries within Contentful for projects.
 
-[Undraw](https://undraw.co/)
+#### 5. Styling and Layout
+- **CSS**: Extensive use of CSS for styling the layout, ensuring a visually appealing and responsive design.
+- **Media Queries**: Implemented media queries for responsiveness and a better user experience across different devices.
 
-#### Data
+#### 6. Environment Configuration
+- **.env File**: Utilized environment variables for Contentful space ID and access token, ensuring secure API calls.
 
-Explore data.js
+### Technologies Used
+- React.js for frontend development.
+- Contentful CMS for managing and delivering content.
+- CSS3 for styling.
+- VITE for environment variable management.
 
-#### Headless CMS
+### Learning Outcomes
+- **CMS Integration**: Gained experience in integrating and managing a CMS within a React application.
+- **Data Fetching**: Learned to fetch and parse data from a headless CMS using custom hooks.
+- **Dynamic Content Rendering**: Explored rendering content dynamically based on CMS data, enhancing content management flexibility.
 
-A headless CMS is a back-end only content management system that provides content creators with an intuitive interface for creating and managing content, while leaving the front-end presentation layer to be handled by a separate system or platform. This approach allows for greater flexibility and scalability, as the content can be easily distributed to multiple channels and devices, without being limited by the constraints of a particular front-end system.
-
-#### Contentful
-
-Create a Contentful account
-
-[Contentful ](https://www.contentful.com/)
-
-##### Create Data
-
-Setup content type and create few entries
-
-#### Explore API
-
-Get Space ID, Access Token and explore code examples.
-
-Space ID -
-Access Token -
-
-#### Install SDK
-
-- npm install contentful
-
-#### Get Entries
-
-```js
-import { createClient } from 'contentful';
-
-const client = createClient({
-  space: 'qz00uzgg3leh',
-  environment: 'master', // defaults to 'master' if not set
-  accessToken: import.meta.env.VITE_API_KEY,
-});
-
-client
-  .getEntries({ content_type: 'projects' })
-  .then((response) => console.log(response.items))
-  .catch(console.error);
-```
-
-#### Custom Hook
-
-Create custom hook with loading and projects state values.
-
-#### Parse Data
-
-Setup projects array
-
-#### Setup Products Component
-
-Render data in Products component
+### Future Enhancements
+- Introduce more content types and components to showcase the versatility of Contentful.
+- Implement additional features like search and filter for the projects list.
+- Improve accessibility and SEO optimization.
