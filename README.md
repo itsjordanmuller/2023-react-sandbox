@@ -47,8 +47,8 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 
 ## Main Sections & Projects
 
-<img src="https://custom-icon-badges.demolab.com/badge/Sections-f8f8f2.svg?logo=bookmark&logoColor=000000" alt="Sections" width="112px" />
-<img src="https://custom-icon-badges.demolab.com/badge/Projects-f8f8f2.svg?logo=star-fill&logoColor=000000" alt="Projects" width="112px" /><br/><br/>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/SECTIONS.md"><img src="https://custom-icon-badges.demolab.com/badge/Sections-f8f8f2.svg?logo=bookmark&logoColor=000000" alt="Sections" width="112px" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/PROJECTS.md"><img src="https://custom-icon-badges.demolab.com/badge/Projects-f8f8f2.svg?logo=star-fill&logoColor=000000" alt="Projects" width="112px" /></a><br/><br/>
 
 [![Fundamentals](https://custom-icon-badges.demolab.com/badge/Fundamentals-ffb2b2.svg?logo=bookmark&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 [![BackRoads Project](https://custom-icon-badges.demolab.com/badge/Backroads%20Project-ffbeb2.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
