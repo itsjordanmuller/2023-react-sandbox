@@ -95,9 +95,9 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 <details open>
 <summary>(Hide/Show) - Table of Contents 🗃️</summary>
 
-* [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals)
+* [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
    - [A. Book List](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
-* [2. BackRoads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project)
+* [2. BackRoads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
 * [3. Advanced React](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react)
    - [A. useState Hook](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/01-useState/starter)
    - [B. useEffect Hook](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/02-useEffect/starter)
@@ -131,7 +131,7 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 * [8. Contentful CMS Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/08-contentful-cms/contentful)
 * [9. MixMaster Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/09-mixmaster/mixmaster)
 * [10. Tailwind Portfolio](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/10-tailwind-portfolio/portfolio)
-* [11. Redux Toolkit](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/11-redux-toolkit-tutorial)
+* [11. Redux Toolkit](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/11-redux-toolkit-tutorial/redux-toolkit-tutorial)
 * [12. Comfy Store Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/12-comfy-store/comfy-store)
 
 </details>
