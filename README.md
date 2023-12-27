@@ -285,7 +285,7 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 
 <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20Portfolio-ffb2d7.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Tailwind Portfolio" />
 
-### [11. Redux Toolkit](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/11-redux-toolkit-tutorial)
+### [11. Redux Toolkit](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/11-redux-toolkit-tutorial/redux-toolkit-tutorial)
 
 <img src="https://custom-icon-badges.demolab.com/badge/Redux%20Toolkit-ffb2cb.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Redux Toolkit" />
 
