@@ -93,10 +93,9 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 
 ## Table of Contents
 <details open>
-<summary>(Hide/Show) - Table of Contents 🗃️</summary>
+<summary>Table of Contents 🗃️</summary>
 
 * [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
-   - [A. Book List](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 * [2. BackRoads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
 * [3. Advanced React](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react)
    - [A. useState Hook](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/01-useState/starter)
@@ -144,8 +143,6 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 ### [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 
 <a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals"><img src="https://custom-icon-badges.demolab.com/badge/Fundamentals-ffb2b2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Fundamentals" /></a>
-
-#### [A. Book List](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 
 ### [2. BackRoads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
 
