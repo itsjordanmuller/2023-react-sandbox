@@ -26,3 +26,73 @@ In `ShortCircuitExamples`, I applied short-circuit evaluation in more practical 
 Finally, `UserChallenge` focused on a common use case: toggling between user login and logout states. This involved conditional rendering based on whether the user is logged in or not. Implementing the login and logout functionality and reflecting these changes in the UI was a great practice for managing user authentication states in React applications.
 
 Throughout these exercises, I gained a comprehensive understanding of conditional rendering in React. From handling multiple states and asynchronous data fetching to applying rules of hooks and implementing user interactions, each example contributed to a deeper understanding of dynamically rendering different UI elements based on state and props in React.
+
+##### [Tours](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours/tours)
+
+![Tours - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-site.png)
+
+##### Tours Components
+
+###### Tours Component
+
+![Tours - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-component-1.png)
+
+###### Tour Component
+
+![Tour - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-component-2.png)
+
+###### Loading Component
+
+![Loading - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-component-3.png)
+
+##### [3. Reviews](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews/reviews)
+
+![Reviews - Site Image 1](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/03-reviews/03-reviews-site-1.png)
+
+![Reviews - Site Image 2](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/03-reviews/03-reviews-site-2.png)
+
+##### Reviews Components
+
+###### Reviews Component
+
+![Reviews - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/03-reviews/03-reviews-component-1.png)
+
+##### [4. Accordion](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion/accordion)
+
+![Accordion - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-site.png)
+
+##### Accordion Components
+
+###### Questions Component
+
+![Accordion - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-component-1.png)
+
+###### Question Component - Open
+
+![Question (Open) - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-component-2.png)
+
+###### Question Component - Closed
+
+![Question (Closed) - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-component-3.png)
+
+##### [5. Menu](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu/menu)
+
+![Menu - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-site.png)
+
+##### Menu Components
+
+###### Title Component
+
+![Title - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-component-1.png)
+
+###### Menu Component
+
+![Menu - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-component-2.png)
+
+###### MenuItem Component
+
+![MenuItem - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-component-3.png)
+
+- [6. Tabs](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs/tabs)
+
+- [7. Slider](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider/slider)
