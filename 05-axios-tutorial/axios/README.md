@@ -1,165 +1,59 @@
-# Axios Tutorial
+## [5. Axios](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/05-axios-tutorial/axios)
 
-#### Docs
+<img src="https://custom-icon-badges.demolab.com/badge/Axios%20Tutorial-e8b2ff.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="Axios Tutorial" />
 
-[Axios Docs](https://axios-http.com/docs/intro)
+This section of the React sandbox focuses on demonstrating various features and capabilities of Axios, a popular promise-based HTTP client for making HTTP requests in JavaScript applications. The tutorial covers basic to advanced Axios functionalities within a React application context.
 
-#### Install
+### Objectives
+- To understand and implement various HTTP request methods using Axios.
+- To explore the configuration of request headers and handling of responses.
+- To learn about setting global defaults and creating custom instances in Axios.
+- To use interceptors for request and response manipulation.
 
-```sh
-npm install axios
-```
+### Setup and Installation
+- **Dependencies**: `axios`
+- **Installation**: `npm install axios`
+- **Import**: `import axios from 'axios';`
 
-```js
-<script src='https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js'></script>
-```
+### Key Features Implemented
 
-#### First Request
+#### 1. Basic HTTP Requests
+- **GET, POST, PUT/PATCH, DELETE**: Implemented different request types like `axios.get()`, `axios.post()`, `axios.put()`, `axios.delete()`.
+- **Handling Promises**: Demonstrated the use of async-await for handling Axios promises.
+- **Error Handling**: Showcased error handling techniques using try-catch blocks.
 
-- import axios
+#### 2. Headers Configuration
+- Explored setting headers for GET and POST requests.
+- Implemented a practical example to fetch a dad joke using custom headers.
 
-- axios.get(url)
-- axios.post(url)
-- axios.patch/put(url)
-- axios.delete(url)
+#### 3. Post Request
+- Demonstrated sending data to the server using `axios.post()` method.
+- Covered additional options like setting authentication headers.
 
-- default get axios(url)
+#### 4. Global Defaults
+- Discussed the setting of global default headers and baseURL in Axios.
+- Addressed the changes in the latest version of Axios regarding the 'common' property.
 
-- returns a promise
-- response data located in data property
-- error in error.response
+#### 5. Custom Axios Instance
+- Created a custom Axios instance with pre-configured baseURL and headers.
+- Showcased how to use custom instances for specific API calls.
 
-```js
-import axios from 'axios';
+#### 6. Interceptors
+- Implemented both request and response interceptors.
+- Showcased their use in logging and error handling.
 
-const fetchData = async () => {
-  try {
-    // axios.get(), axios.post(),axios.put(), axios.delete()
-    const response = await axios(url);
+### Techniques Used
+- **React Functional Components**: Utilized functional components for structuring the application.
+- **Hooks (useState, useEffect)**: Employed React hooks for state management and side effects.
+- **Async-Await**: Used for asynchronous API calls.
+- **Error Handling**: Techniques to catch and handle errors in HTTP requests.
+- **Custom Styling**: Employed CSS for custom styling of components.
 
-    console.log(response);
-  } catch (error) {
-    console.log(error.response);
-  }
-};
-```
+### Learning Outcomes
+- **Axios vs Fetch API**: Learned the advantages of Axios over the native Fetch API in terms of automatic JSON data transformation and error handling.
+- **Interceptors Usage**: Gained insights into the power of interceptors for global request/response handling.
+- **Global vs Custom Instance**: Understood the significance of using global default settings versus custom instances for different use cases.
 
-#### Headers
-
-- second argument
-- axios.get(url,{})
-
-- third argument in requests with data
-- axios.post(url,{data},{})
-
-```js
-const fetchDadJoke = async () => {
-  try {
-    const { data } = await axios(url, {
-      headers: {
-        Accept: 'application/json',
-      },
-    });
-    // console.log(data);
-    setJoke(data.joke);
-  } catch (error) {
-    console.log(error.response);
-  }
-};
-```
-
-#### Post Request
-
-- send data to the server
-- axios.post(url, { data })
-- more options (auth header) - axios.post(url, { data },{})
-
-```js
-try {
-  const resp = await axios.post(url, { data });
-} catch (error) {
-  console.log(error.response.data);
-}
-```
-
-#### Global Defaults
-
-```js
-// In latest axios version common property returns "undefined"
-// axios.defaults.headers.common['Accept'] = 'application/json';
-axios.defaults.headers['Accept'] = 'application/json';
-
-axios.defaults.baseURL = 'https://api.example.com';
-
-// In latest axios version common property returns "undefined"
-// axios.defaults.headers.common['Authorization'] = AUTH_TOKEN;
-axios.defaults.headers['Authorization'] = AUTH_TOKEN;
-
-axios.defaults.headers.post['Content-Type'] =
-  'application/x-www-form-urlencoded';
-```
-
-#### Custom Instance
-
-```js
-const authFetch = axios.create({
-  baseURL: 'https://course-api.com',
-  headers: {
-    Accept: 'application/json',
-  },
-});
-```
-
-#### Interceptors
-
-- global and custom
-
-```js
-authFetch.interceptors.request.use(
-  (request) => {
-    // request.headers.common['Accept'] = `application/json`;
-    request.headers['Accept'] = `application/json`;
-
-    console.log('request sent');
-    // must return request
-    return request;
-  },
-  (error) => {
-    return Promise.reject(error);
-  }
-);
-
-authFetch.interceptors.response.use(
-  (response) => {
-    console.log('got response');
-    return response;
-  },
-  (error) => {
-    console.log(error.response);
-    if (error.response.status === 404) {
-      // do something
-      console.log('NOT FOUND');
-    }
-    return Promise.reject(error);
-  }
-);
-```
-
-##### Update
-
-In the latest version there is no common property
-
-```js
-// In latest axios version common property returns "undefined"
-// axios.defaults.headers.common['Accept'] = 'application/json';
-axios.defaults.headers['Accept'] = 'application/json';
-
-// In latest axios version common property returns "undefined"
-// axios.defaults.headers.common['Authorization'] = AUTH_TOKEN;
-axios.defaults.headers['Authorization'] = AUTH_TOKEN;
-```
-
-```js
-// request.headers.common['Accept'] = `application/json`;
-request.headers['Accept'] = `application/json`;
-```
+### Future Enhancements
+- Implement more complex Axios features like cancellation tokens.
+- Explore integration with state management libraries like Redux for better state handling of HTTP responses.
