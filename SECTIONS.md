@@ -6,7 +6,7 @@
 
 ## Main Sections of React Sandbox
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/SECTIONS.md"><img src="https://custom-icon-badges.demolab.com/badge/Sections-f8f8f2.svg?logo=bookmark&logoColor=000000" alt="Sections" width="35%" /></a><br>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/SECTIONS.md"><img src="https://custom-icon-badges.demolab.com/badge/Sections-f8f8f2.svg?logo=bookmark&logoColor=000000" alt="Sections" width="55%" /></a><br>
 
 [![Fundamentals](https://custom-icon-badges.demolab.com/badge/Fundamentals-ffb2b2.svg?logo=bookmark&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 [![Advanced React](https://custom-icon-badges.demolab.com/badge/Advanced%20React-ffcbb2.svg?logo=bookmark&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react)
@@ -26,7 +26,7 @@
 [![React Query](https://custom-icon-badges.demolab.com/badge/React%20Query-f4b2ff.svg?logo=bookmark&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/06-react-query)
 [![Redux Toolkit](https://custom-icon-badges.demolab.com/badge/Redux%20Toolkit-ffb2cb.svg?logo=bookmark&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/11-redux-toolkit-tutorial/redux-toolkit-tutorial)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/PROJECTS.md"><img src="https://custom-icon-badges.demolab.com/badge/View%20Projects%20Only-f8f8f2.svg?logo=star-fill&logoColor=000000" alt="View Projects" width="25%" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/PROJECTS.md"><img src="https://custom-icon-badges.demolab.com/badge/View%20Projects%20Only-f8f8f2.svg?logo=star-fill&logoColor=000000" alt="View Projects" width="65%" /></a>
 
 ---
 
