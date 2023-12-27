@@ -6,7 +6,7 @@
 
 ## Main Projects of React Sandbox
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/PROJECTS.md"><img src="https://custom-icon-badges.demolab.com/badge/Projects-f8f8f2.svg?logo=star-fill&logoColor=000000" alt="Projects" width="55%" /></a><br>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/PROJECTS.md"><img src="https://custom-icon-badges.demolab.com/badge/Projects-f8f8f2.svg?logo=star-fill&logoColor=000000" alt="Projects" width="45%" /></a><br>
 
 [![BackRoads Project](https://custom-icon-badges.demolab.com/badge/Backroads%20Project-ffbeb2.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
 [![Birthday Buddy Project](https://custom-icon-badges.demolab.com/badge/Birthday%20Buddy%20Project-b2ffd3.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy/birthday-buddy)
@@ -29,7 +29,7 @@
 [![Tailwind Portfolio](https://custom-icon-badges.demolab.com/badge/Tailwind%20Portfolio-ffb2d7.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/10-tailwind-portfolio/portfolio)
 [![Comfy Store Project](https://custom-icon-badges.demolab.com/badge/Comfy%20Store%20Project-ffb2be.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/12-comfy-store/comfy-store)
 
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/SECTIONS.md"><img src="https://custom-icon-badges.demolab.com/badge/View%20Sections%20Only-f8f8f2.svg?logo=bookmark&logoColor=000000" alt="View Sections" width="65%" /></a>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/SECTIONS.md"><img src="https://custom-icon-badges.demolab.com/badge/View%20Sections%20Only-f8f8f2.svg?logo=bookmark&logoColor=000000" alt="View Sections" width="40%" /></a>
 
 ---
 
