@@ -31,6 +31,24 @@ In `UseStateObject`, I managed the state of an object containing multiple proper
 
 Overall, these exercises deepened my understanding of `useState`, emphasizing its importance in React for state management and re-rendering components. I explored various use cases, from simple counters to managing arrays and objects, and tackled common issues like asynchronous state updates.
 
+##### [Birthday Buddy](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy/birthday-buddy)
+
+![Birthday Buddy - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-site.png)
+
+##### Birthday Buddy Components
+
+###### App Component
+
+![App - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-component-1.png)
+
+###### List Component
+
+![List - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-component-2.png)
+
+###### Person Component
+
+![Person - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-component-3.png)
+
 #### [B. useEffect](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/02-useEffect/starter)
 
 <img src="https://custom-icon-badges.demolab.com/badge/useEffect%20Hook-ffe4b2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="useEffect Hook" />
@@ -53,6 +71,24 @@ In `MultipleEffects`, I delved into the concept of using multiple `useEffect` ho
 Finally, `CleanupFunction` focused on the cleanup aspect of `useEffect`. It demonstrated how to properly clean up side effects, especially those involving subscriptions or event listeners, to prevent memory leaks. The component toggles the visibility of `RandomComponent`, which subscribes to a window scroll event. The cleanup function in the `useEffect` hook ensures that the event listener is removed when the component is unmounted, emphasizing the importance of cleaning up to maintain optimal performance and prevent bugs.
 
 These exercises provided a comprehensive overview of `useEffect`, from basic usage to complex scenarios involving data fetching and cleanup. Each example built upon the previous, enhancing my understanding of managing side effects in functional components using the `useEffect` hook.
+
+##### [Tours](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours/tours)
+
+![Tours - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-site.png)
+
+##### Tours Components
+
+###### Tours Component
+
+![Tours - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-component-1.png)
+
+###### Tour Component
+
+![Tour - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-component-2.png)
+
+###### Loading Component
+
+![Loading - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-component-3.png)
 
 #### [C. Conditional Rendering](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/03-conditional-rendering/starter)
 
@@ -149,6 +185,12 @@ In `UncontrolledInputs`, I experimented with the FormData API to handle form sub
 
 Through these exercises, I gained a comprehensive understanding of handling forms in React. From controlled inputs, managing multiple inputs, adapting to different input types, to experimenting with the FormData API, each example deepened my knowledge of form handling, a critical aspect of user interactions in web applications.
 
+- [8. Lorem Ipsum Generator](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum/lorem-ipsum)
+
+- [9. Color Generator](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/09-color-generator/color-generator)
+
+- [10.  Grocery Bud](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud/grocery-bud)
+
 #### [G. useRef](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/07-useRef/starter)
 
 <img src="https://custom-icon-badges.demolab.com/badge/useRef%20Hook-dbffb2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="useRef Hook" />
@@ -163,6 +205,8 @@ In `UseRefBasics`, I delved into the `useRef` hook, a powerful feature in React 
 2. **Tracking Component Renders:** I utilized `useRef` to create a persistent variable (`isMounted`) that doesn't trigger re-renders when its value changes. This variable was used to track if the component had been rendered more than once, illustrating `useRef`'s ability to persist data across renders without causing additional renders.
 
 The `handleSubmit` function showcases a practical use of `useRef` by accessing the value of the input field directly, a common pattern in form handling. This exercise was instrumental in understanding the versatility of `useRef`, from manipulating the DOM to preserving data across component updates, making it a unique tool in the React hook arsenal.
+
+- [11. Navbar](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar/navbar)
 
 #### [H. Custom Hooks](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/08-custom-hooks/starter)
 
@@ -223,6 +267,12 @@ These files illustrate the traditional prop drilling method, where state and fun
 
 Through these exercises, I gained a comprehensive understanding of different state management strategies in React. The Context API and global context approaches allow for more efficient state management in larger applications, avoiding the complexity and maintenance issues associated with prop drilling. Prop drilling, while simpler, is more suitable for small applications with a limited component hierarchy. Each method has its own use cases and understanding when to use each is key to building efficient and maintainable React applications.
 
+- [12. Sidebar](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar/sidebar)
+
+- [13. Strapi Submenus](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus/strapi-submenus)
+
+- [14. Cart](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart/cart)
+
 #### [J. useReducer](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/10-useReducer/starter)
 
 <img src="https://custom-icon-badges.demolab.com/badge/useReducer%20Hook-b6ffb2.svg?logo=bookmark&logoColor=000000&style=for-the-badge" width="100%" alt="useReducer Hook" />
@@ -245,6 +295,8 @@ This file contains constants for the action types. Using constants for action ty
 The `reducer` function is where the state management logic resides. It takes the current state and an action, then returns a new state based on the action type. This function is a pure function, meaning it doesn't mutate the current state but returns a new state object. The use of a switch statement or if-else conditions to handle different action types is a standard practice in writing reducers.
 
 Overall, `ReducerBasics` is a practical demonstration of using `useReducer` for state management in React. It highlights the benefits of `useReducer` in handling complex state logic, providing a more structured and scalable way to manage state compared to `useState`, especially in larger applications.
+
+- [14. Cart](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart/cart)
 
 #### [K. Performance](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/03-advanced-react/advanced-react/src/tutorial/11-performance/starter)
 
@@ -293,121 +345,3 @@ Faced various challenges, including but not limited to:
 - **State and Effect Hooks**: Delved into the intricacies of initial renders, re-renders, and the general rules of hooks.
 - **Cleanup Functions and Fetching Data**: Addressed the significance of cleanup functions in useEffect and the nuances of data fetching.
 - **Performance Concepts**: Explored automatic batching, React.memo, useCallback, useMemo, useTransition, and the Suspense API.
-
-### Corresponding Projects
-
-Linked theoretical knowledge with practical applications in the following projects:
-
-#### useState
-
-##### [1. Birthday Buddy](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/01-birthday-buddy/birthday-buddy)
-
-![Birthday Buddy - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-site.png)
-
-##### Birthday Buddy Components
-
-###### App Component
-
-![App - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-component-1.png)
-
-###### List Component
-
-![List - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-component-2.png)
-
-###### Person Component
-
-![Person - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/01-birthday-buddy/01-birthday-buddy-component-3.png)
-
-#### useEffect and Conditional Rendering
-
-##### [2. Tours](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/02-tours/tours)
-
-![Tours - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-site.png)
-
-##### Tours Components
-
-###### Tours Component
-
-![Tours - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-component-1.png)
-
-###### Tour Component
-
-![Tour - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-component-2.png)
-
-###### Loading Component
-
-![Loading - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/02-tours/02-tours-component-3.png)
-
-##### [3. Reviews](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/03-reviews/reviews)
-
-![Reviews - Site Image 1](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/03-reviews/03-reviews-site-1.png)
-
-![Reviews - Site Image 2](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/03-reviews/03-reviews-site-2.png)
-
-##### Reviews Components
-
-###### Reviews Component
-
-![Reviews - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/03-reviews/03-reviews-component-1.png)
-
-##### [4. Accordion](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/04-accordion/accordion)
-
-![Accordion - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-site.png)
-
-##### Accordion Components
-
-###### Questions Component
-
-![Accordion - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-component-1.png)
-
-###### Question Component - Open
-
-![Question (Open) - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-component-2.png)
-
-###### Question Component - Closed
-
-![Question (Closed) - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/04-accordion/04-accordion-component-3.png)
-
-##### [5. Menu](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/05-menu/menu)
-
-![Menu - Site Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-site.png)
-
-##### Menu Components
-
-###### Title Component
-
-![Title - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-component-1.png)
-
-###### Menu Component
-
-![Menu - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-component-2.png)
-
-###### MenuItem Component
-
-![MenuItem - Component Image](https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/04-fundamental-projects/05-menu/05-menu-component-3.png)
-
-- [6. Tabs](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/06-tabs/tabs)
-
-- [7. Slider](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/07-slider/slider)
-
-#### React Forms
-
-- [8. Lorem Ipsum Generator](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/08-lorem-ipsum/lorem-ipsum)
-
-- [9. Color Generator](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/09-color-generator/color-generator)
-
-- [10.  Grocery Bud](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/10-grocery-bud/grocery-bud)
-
-#### useRef
-
-- [11. Navbar](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/11-navbar/navbar)
-
-#### useContext
-
-- [12. Sidebar](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/12-sidebar/sidebar)
-
-- [13. Strapi Submenus](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/13-strapi-submenus/strapi-submenus)
-
-#### useReducer and useContext
-
-- [14. Cart](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/04-fundamental-projects/14-cart/cart)
