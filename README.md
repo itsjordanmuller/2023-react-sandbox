@@ -7,9 +7,6 @@
 Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm), React Router 6, React Query 4, Redux Toolkit, Create React App, Vite, ContentfulCMS, Tailwind CSS, daisyUI, HTML, CSS & JavaScript
 
 [![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://jordanmuller.com/portfolio/tags/react/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://jordanmuller.com/portfolio/tags/html/)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://jordanmuller.com/portfolio/tags/css/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://jordanmuller.com/portfolio/tags/javascript/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://jordanmuller.com/portfolio/tags/node-js/)
 [![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://jordanmuller.com/portfolio/tags/npm/)
 [![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)](https://jordanmuller.com/portfolio/tags/express/)
@@ -20,15 +17,17 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 [![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)](https://jordanmuller.com/portfolio/tags/redux/)
 [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-494cbf.svg?style=for-the-badge&logo=Redux&logoColor=white)](https://jordanmuller.com/portfolio/tags/redux-toolkit/)
 [![React Redux](https://img.shields.io/badge/React%20Redux-61DAFB.svg?style=for-the-badge&logo=Redux&logoColor=black)](https://jordanmuller.com/portfolio/tags/react-redux/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://jordanmuller.com/portfolio/tags/figma/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)](https://jordanmuller.com/portfolio/tags/postman/)
 [![Create React App](https://img.shields.io/badge/Create%20React%20App-09D3AC.svg?style=for-the-badge&logo=Create-React-App&logoColor=white)](https://jordanmuller.com/portfolio/tags/create-react-app/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)](https://jordanmuller.com/portfolio/tags/vite/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://jordanmuller.com/portfolio/tags/figma/)
-[![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)](https://jordanmuller.com/portfolio/tags/json/)
 
 <details>
 <summary>More Technologies 📀</summary>
 
+[![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://jordanmuller.com/portfolio/tags/html/)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://jordanmuller.com/portfolio/tags/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://jordanmuller.com/portfolio/tags/javascript/)
 [![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)](https://jordanmuller.com/portfolio/tags/dotenv/)
 [![Autoprefixer](https://img.shields.io/badge/Autoprefixer-DD3735.svg?style=for-the-badge&logo=Autoprefixer&logoColor=white)](https://jordanmuller.com/portfolio/tags/autoprefixer/)
 [![Babel](https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black)](https://jordanmuller.com/portfolio/tags/babel/)
@@ -36,6 +35,7 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 [![CORS](https://img.shields.io/badge/cors-000000.svg?style=for-the-badge)](https://jordanmuller.com/portfolio/tags/cors/)
 [![daisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=for-the-badge&logo=DaisyUI&logoColor=white)](https://jordanmuller.com/portfolio/tags/daisy-ui/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white)](https://jordanmuller.com/portfolio/tags/es-lint/)
+[![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)](https://jordanmuller.com/portfolio/tags/json/)
 [![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)](https://jordanmuller.com/portfolio/tags/jwt/)
 [![Morgan](https://img.shields.io/badge/Morgan-000000.svg?style=for-the-badge)](https://jordanmuller.com/portfolio/tags/morgan/)
 [![nanoid](https://custom-icon-badges.demolab.com/badge/nanoid-000000.svg?style=for-the-badge&logo=id-badge&logoColor=white)](https://jordanmuller.com/portfolio/tags/nano-id/)
@@ -43,7 +43,7 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 [![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=for-the-badge&logo=PostCSS&logoColor=white)](https://jordanmuller.com/portfolio/tags/post-css/)
 [![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black)](https://jordanmuller.com/portfolio/tags/prettier/)
 [![React-Toastify](https://img.shields.io/badge/React%20Toastify-1082A7.svg?style=for-the-badge&logo=React&logoColor=white)](https://jordanmuller.com/portfolio/tags/react-toastify/)
-[![styled-components](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)](https://jordanmuller.com/portfolio/tags/styled-components/)
+[![styled-components](https://img.shields.io/badge/styled%20components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)](https://jordanmuller.com/portfolio/tags/styled-components/)
 [![uuid](https://img.shields.io/badge/UUID-000000.svg?style=for-the-badge)](https://jordanmuller.com/portfolio/tags/uuid/)
 [![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1.svg?style=for-the-badge&logo=Kubuntu&logoColor=white)](https://jordanmuller.com/portfolio/tags/kubuntu/)
 [![KDE](https://img.shields.io/badge/KDE-1D99F3.svg?style=for-the-badge&logo=KDE&logoColor=white)](https://jordanmuller.com/portfolio/tags/kde/)
@@ -111,7 +111,7 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 | [![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)](https://jordanmuller.com/portfolio/tags/redux/)<br>[Redux](https://redux.js.org/) | Redux is a pattern and library for managing and updating application state, using events called "actions". It serves as a centralized store for state that needs to be used across your entire application, with rules ensuring that the state can only be updated in a predictable fashion. | [2015](https://www.bairesdev.com/blog/what-is-redux-and-why-it-matters/) |
 | [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-494cbf.svg?style=for-the-badge&logo=Redux&logoColor=white)](https://jordanmuller.com/portfolio/tags/redux-toolkit/)<br>[Redux Toolkit](https://redux-toolkit.js.org/) | Redux Toolkit is an official, opinionated, batteries-included toolset for efficient Redux development. It is intended to be the standard way to write Redux logic, and it is strongly recommend that you use it. | [2019](https://blog.isquaredsoftware.com/2019/10/redux-toolkit-1.0/) |
 | [![Strapi](https://img.shields.io/badge/Strapi-4945FF.svg?style=for-the-badge&logo=Strapi&logoColor=white)](https://jordanmuller.com/portfolio/tags/strapi/)<br>[Strapi](https://strapi.io/) | Strapi is an open-source, Node. js based, Headless CMS that saves developers a lot of development time while giving them the freedom to use their favorite tools and frameworks. Strapi also enables content editors to streamline content delivery (text, images, video, etc) across any devices. | [2015](https://strapi.io/about-us-old) |
-| [![styled-components](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)](https://jordanmuller.com/portfolio/tags/styled-components/)<br>[styled-components](https://styled-components.com/) | Utilising tagged template literals (a recent addition to JavaScript) and the power of CSS, styled-components allows you to write actual CSS code to style your components. It also removes the mapping between components and styles. | [2016](https://github.com/styled-components/styled-components/releases) |
+| [![styled-components](https://img.shields.io/badge/styled%20components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)](https://jordanmuller.com/portfolio/tags/styled-components/)<br>[styled-components](https://styled-components.com/) | Utilising tagged template literals (a recent addition to JavaScript) and the power of CSS, styled-components allows you to write actual CSS code to style your components. It also removes the mapping between components and styles. | [2016](https://github.com/styled-components/styled-components/releases) |
 | [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://jordanmuller.com/portfolio/tags/tailwind-css/)<br>[Tailwind CSS](https://tailwindcss.com/) | Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML. | [2017](https://en.wikipedia.org/wiki/Tailwind_CSS) |
 | [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://jordanmuller.com/portfolio/tags/ubuntu/)<br>[Ubuntu](https://ubuntu.com/) | Ubuntu is a Linux distribution based on Debian and composed mostly of free and open-source software. Ubuntu is officially released in multiple editions: Desktop, Server, and Core for Internet of things devices and robots. | [2004](https://en.wikipedia.org/wiki/Ubuntu) |
 | [![Unsplash](https://img.shields.io/badge/Unsplash-000000.svg?style=for-the-badge&logo=Unsplash&logoColor=white)](https://jordanmuller.com/portfolio/tags/unsplash/)<br>[Unsplash](https://unsplash.com/) | Unsplash is a website dedicated to proprietary stock photography. Since 2021, it has been owned by Getty Images. The website claims over 330,000 contributing photographers and generates more than 13 billion photo impressions per month on their growing library of over 5 million photos. | [2013](https://en.wikipedia.org/wiki/Unsplash) |
