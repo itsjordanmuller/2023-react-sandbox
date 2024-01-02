@@ -1,10 +1,11 @@
+<a id="top"></a>
 <div align="center">
 
-# React Sandbox
+<h1>React Sandbox</h1>
 
 <a href="https://jordanmuller.com/portfolio/react-sandbox/"><img src="https://custom-icon-badges.demolab.com/badge/React%20Sandbox-282A36.svg?style=for-the-badge&logo=react&logoColor=5ED4F3" width="100%"/></a>
 
-Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm), React Router 6, React Query 4, Redux Toolkit, Create React App, Vite, ContentfulCMS, Tailwind CSS, daisyUI, HTML, CSS & JavaScript
+<p>Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm), React Router 6, React Query 4, Redux Toolkit, Create React App, Vite, ContentfulCMS, Tailwind CSS, daisyUI, HTML, CSS & JavaScript</p>
 
 [![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://jordanmuller.com/portfolio/tags/react/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://jordanmuller.com/portfolio/tags/javascript/)
@@ -26,7 +27,7 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 [![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)](https://jordanmuller.com/portfolio/tags/vite/)
 
 <details>
-<summary>More Technologies 📀</summary>
+<summary>More Technologies 📀</summary><br>
 
 [![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)](https://jordanmuller.com/portfolio/tags/dotenv/)
 [![Autoprefixer](https://img.shields.io/badge/Autoprefixer-DD3735.svg?style=for-the-badge&logo=Autoprefixer&logoColor=white)](https://jordanmuller.com/portfolio/tags/autoprefixer/)
@@ -66,7 +67,7 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 
 <div align="left">
 
-## Overview of Technologies
+<h2>Overview of Technologies</h2>
 
 | **Technology** | **Overview** | **Release Year** |
 |:---:|:---:|:---:|
@@ -123,7 +124,9 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 
 </details>
 
-## Main Sections & Projects
+<hr>
+
+<h2>Main Sections & Projects</h2>
 
 <a href="https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/SECTIONS.md"><img src="https://custom-icon-badges.demolab.com/badge/Sections-f8f8f2.svg?logo=bookmark&logoColor=000000" alt="Sections" width="30%" /></a> 
 <a href="https://github.com/itsjordanmuller/2023-react-sandbox/blob/main/PROJECTS.md"><img src="https://custom-icon-badges.demolab.com/badge/Projects-f8f8f2.svg?logo=star-fill&logoColor=000000" alt="Projects" width="30%" /></a><br/>
@@ -165,13 +168,20 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 [![Tailwind Portfolio](https://custom-icon-badges.demolab.com/badge/Tailwind%20Portfolio-ffb2d7.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/10-tailwind-portfolio/portfolio)
 [![Redux Toolkit](https://custom-icon-badges.demolab.com/badge/Redux%20Toolkit-ffb2cb.svg?logo=bookmark&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/11-redux-toolkit-tutorial/redux-toolkit-tutorial)
 [![Comfy Store Project](https://custom-icon-badges.demolab.com/badge/Comfy%20Store%20Project-ffb2be.svg?logo=star-fill&logoColor=000000)](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/12-comfy-store/comfy-store)
-<br/><br/>
 
 </div>
 
-## Table of Contents
-<details open>
-<summary>Table of Contents 🗃️</summary>
+<details open><summary><h2>Table of Contents 🗃️</h2></summary><blockquote>
+
+📖 <a href="#about-section"><strong>About The Project</strong></h3></a>
+
+🖼️ <a href="#gallery-section"><strong>Image Gallery</strong></a>
+
+🛠️ <a href="#setup-section"><strong>Setup Instructions</strong></a>
+
+💡 <a href="#usage-section"><strong>Usage, Tips & Notes</strong></a>
+
+<details open><summary>🔍 <a href="#overview-section"><strong>Pages & Sections</strong></a></summary><blockquote>
 
 * [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 * [2. BackRoads Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/02-backroads-project/backroads-app)
@@ -211,12 +221,63 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 * [11. Redux Toolkit](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/11-redux-toolkit-tutorial/redux-toolkit-tutorial)
 * [12. Comfy Store Project](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/12-comfy-store/comfy-store)
 
+</blockquote>
 </details>
 
-## Section Overviews
-
 <details open>
-<summary>(Hide/Show) - Section Overviews 📑</summary>
+<summary>🌟 <a href="#acknowledgements-section"><strong>Acknowledgements</strong></a></summary>
+<blockquote>
+
+- 💌 <a href="#special-thanks">Special Thanks</a>
+
+</blockquote>
+</details>
+
+📬 <a href="#contact-section"><strong>Contact Information</strong></a>
+
+📜 <a href="#license-section"><strong>License Information</strong></a>
+
+🔗 <a href="#resources-section"><strong>Resources & Citations</strong></a>
+
+</blockquote></details>
+
+<hr>
+
+<a id="about-section"></a>
+<details open>
+<summary><h2>📖 About The Project</h2></summary>
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
+
+</details>
+
+<a id="gallery-section"></a>
+<details open>
+<summary><h2>🖼️ Image Gallery</h2></summary>
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
+
+</details>
+
+<a id="setup-section"></a>
+<details>
+<summary><h2>🛠️ Setup Instructions</h2></summary>
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
+
+</details>
+
+<a id="usage-section"></a>
+<details>
+<summary><h2>💡 Usage, Tips & Notes</h2></summary>
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
+
+</details>
+
+<a id="overview-section"></a>
+<details open>
+<summary><h2>🔍 Sections & Projects</h2></summary>
 
 ### [1. Fundamentals](https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/01-fundamentals/react-fundamentals)
 
@@ -366,28 +427,87 @@ Self-Paced Learning Sandbox for React, Axios, Node.js, Node Package Manager (npm
 
 <a href="https://github.com/itsjordanmuller/2023-react-sandbox/tree/main/12-comfy-store/comfy-store"><img src="https://custom-icon-badges.demolab.com/badge/Comfy%20Store%20Project-ffb2be.svg?logo=star-fill&logoColor=000000&style=for-the-badge" width="100%" alt="Comfy Store Project" /></a>
 
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
+
 </details>
 
-## Sources, Credits & Acknowledgments
+<a id="acknowledgements-section"></a>
+<details open>
+<summary><h2>🌟 Acknowledgements</h2></summary>
 
-### Course Details
+<a id="special-thanks"></a>
 
-[React 18 Tutorial and Projects Course (2023)](https://www.udemy.com/course/react-tutorial-and-projects-course/) course by [John Smilga](https://www.udemy.com/user/janis-smilga-3/) on [Udemy](https://www.udemy.com/)
+<div align="left">
 
-## Contact Information
+<h3>💌 Special Thanks</h3>
 
-Please feel free to reach out if you have any suggestions or run into any issues with viewing this project. I'm always looking for feedback from other people! I'd be more than happy to answer any questions you may have as well as assist with getting the project working on your machine.<br/>
+<blockquote>
+<p>Dear John Smilga,</p>
+<p>I want to express my sincere gratitude for your outstanding course, "React 18 Tutorial & Projects Course (2023)." Your comprehensive teaching approach has not only taught me React but also a wide array of related skills that are crucial in today’s web development landscape.</p>
+<p>The self-paced learning sandbox you created is a testament to your dedication and skill as an educator. Through your course, I've gained proficiency in a range of technologies including Axios, Node.js, npm, React Router 6, React Query 4, Redux Toolkit, and more. Your lessons on Vite, ContentfulCMS, Tailwind CSS, daisyUI, along with foundational web technologies like HTML, CSS, and JavaScript, have immensely broadened my understanding and capabilities.</p>
+<p>Your method of teaching is clear, engaging, and incredibly effective. Each module was well-structured, providing practical, hands-on experience that made complex concepts much easier to grasp. I am particularly appreciative of how you integrated modern tools and best practices, preparing me for real-world web development challenges.</p>
+<p>Thank you for your hard work and dedication in creating such a valuable learning resource. It has been instrumental in my journey as a developer, and I am deeply grateful for the knowledge and skills I have acquired under your guidance.</p>
+<p>Sincerely,<br><strong><em>Jordan Muller</em></strong></p>
+</blockquote>
 
-Be sure to view the setup guide in the README, as well as any specific README files for that specific project as they contain more details and may already have the answer to your question(s)!
+</div>
 
-[![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20me-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:itsjordanmuller@gmail.com)<br/>
-[![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)<br/>
-[![My Website](https://custom-icon-badges.demolab.com/badge/My%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://www.linkedin.com/in/itsjordanmuller)
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
 
-## License Information
+</details>
+
+<a id="contact-section"></a>
+<details open>
+<summary><h2>📬 Contact Information</h2></summary>
+
+<div align="center">
+
+<blockquote>
+<img src="https://github.com/itsjordanmuller.png" width="160px"/><br>
+<em>If you have questions/feedback, I would love to hear from you. Thanks for stopping by!<br>- <strong>Jordan Muller</strong></em>
+
+</blockquote>
+
+[![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)
+[![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20me-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:itsjordanmuller@gmail.com)
+[![Portfolio Website](https://custom-icon-badges.demolab.com/badge/Portfolio%20Website-www.jordanmuller.com-a61168?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com/)
+
+</div>
+
+Please feel free to reach out if you have any suggestions or run into any issues with viewing this project.<br>
+
+I am always looking for feedback from other people! I'd be more than happy to answer any questions you may have as well as assist with getting the project working on your machine.<br>
+
+Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em></strong></a> in the README, as well as any specific README files for that specific project as they contain more details and may already have the answer to your question(s)!
+
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
+
+</details>
+
+<a id="license-section"></a>
+<details open>
+<summary><h2>📜 License Information</h2></summary>
 
 The content within this repository was created as part of a personal educational project, following the [React 18 Tutorial and Projects Course (2023)](https://www.udemy.com/course/react-tutorial-and-projects-course/) course by [John Smilga](https://www.udemy.com/user/janis-smilga-3/) on [Udemy](https://www.udemy.com/). This repository is intended for personal use only and serves as a record of my learning progress. This repository & the content within it are not intended for commercial use, distribution, or replication. All rights to the original course content and methodologies belong to the respective copyright holders.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-Copyright © 2023 Jordan Muller. All Rights Reserved.
+Copyright © 2024 Jordan Muller. All Rights Reserved.
+
+<div align="right"><a href="#top">(back to top)</a></div>
+<hr>
+
+</details>
+
+<a id="resources-section"></a>
+<details open>
+<summary><h2>🔗 Resources & Citations</h2></summary>
+
+[React 18 Tutorial and Projects Course (2023)](https://www.udemy.com/course/react-tutorial-and-projects-course/) course by [John Smilga](https://www.udemy.com/user/janis-smilga-3/) on [Udemy](https://www.udemy.com/)
+
+</details>
+
+<div align="right"><a href="#top">(back to top)</a></div>
