@@ -246,20 +246,20 @@
 <a id="about-section"></a>
 <details open>
 <summary align="center"><h2>📖 About The Project</h2></summary>
-<!-- <h3>📂 Project Introduction</h3>
+<h3>📂 Project Introduction</h3>
 <blockquote>
-<p></p>
-</blockquote> -->
+<p>The "React 18 Tutorial and Projects Course (2023)" was a step forward in my journey with front-end development. Led by experienced instructor John Smilga, this course was a fantastic opportunity to explore React 18. The curriculum was designed not just to teach at a surface level, but to immerse me in the practical aspects of React, enabling me to build over 25 different projects. These ranged from a simple Birthday Reminder to a simulated e-commerce store filled with fictional products, each reinforcing a different aspect of React.</p>
+</blockquote>
 
-<!-- <h3>⛳ Learning Objectives & Goals</h3>
+<h3>⛳ Learning Objectives & Goals</h3>
 <blockquote>
-<p></p>
-</blockquote> -->
+<p>My objective for enrolling in this course was to gain a solid grasp of React. Coming in with a background in HTML, CSS, and JavaScript, I aimed to explore deeper into React's functionalities, understanding its core features, getting to grips with state management, and navigating its component-based architecture. The project-based learning structure of the course was pivotal in converting theory into practical, real-world applications.</p>
+</blockquote>
 
-<!-- <h3>🗓️ Project Timeline</h3>
+<h3>🗓️ Project Timeline</h3>
 <blockquote>
-<p></p>
-</blockquote> -->
+<p>I started this course on October 23rd, 2023, with a focus on consistent progress. The course was well-paced, allowing me to absorb the intricacies of each new concept before moving on to the next. This steady approach paid off, enabling me to not only complete each project but also to build a solid understanding of React's role and capabilities in modern web development.</p>
+</blockquote>
 
 <div align="right"><a href="#top">(back to top)</a></div>
 <hr>
