@@ -854,7 +854,7 @@ Be sure to view the <a href="#setup-section"><strong><em>Setup Instructions</em>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/View%20Course%20on%20Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" width="80%" alt="Udemy Badge"/>
+        <a href="https://www.udemy.com/course/react-tutorial-and-projects-course/"><img src="https://img.shields.io/badge/View%20Course%20on%20Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" width="80%" alt="Udemy Badge"/></a>
       </td>
     </tr>
   </tbody>
